@@ -1,0 +1,141 @@
+tracker_file,tracker_row,country,disposition,regime_rows,reason
+tracker_measures_2021_2023.csv,5,Austria,coded,Austria|electricity|4|2022-05; Austria|gas|4|2022-05,
+tracker_measures_2021_2023.csv,35,Austria,coded,Austria|electricity|2|2022-12,
+tracker_measures_2021_2023.csv,37,Belgium,not_coded,,Excise raised from April 2023 to offset the permanent 6% VAT; noted on the Belgian code 4 rows
+tracker_measures_2021_2023.csv,38,Belgium,coded,Belgium|electricity|4|2022-03,
+tracker_measures_2021_2023.csv,39,Belgium,coded,Belgium|gas|4|2022-04,
+tracker_measures_2021_2023.csv,43,Belgium,coded,Belgium|electricity|1|2021-02; Belgium|gas|1|2021-02,
+tracker_measures_2021_2023.csv,48,Belgium,not_coded,,Excise raised from April 2023 to offset the permanent 6% VAT; noted on the Belgian code 4 rows
+tracker_measures_2021_2023.csv,49,Belgium,coded,Belgium|electricity|4|2022-03,
+tracker_measures_2021_2023.csv,50,Belgium,coded,Belgium|gas|4|2022-04,
+tracker_measures_2021_2023.csv,52,Belgium,coded,Belgium|electricity|1|2021-02; Belgium|gas|1|2021-02,
+tracker_measures_2021_2023.csv,55,Belgium,not_coded,,"Collective heating installations, not household supply contracts (rule section 6)"
+tracker_measures_2021_2023.csv,61,Bulgaria,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,64,Bulgaria,not_coded,,"Zero excise from July 2022 on 'qualifying' electricity (IEA: generally from renewable sources); household coverage not established, and Bulgarian electricity is code 3 throughout, so a code 4 would only add a flag"
+tracker_measures_2021_2023.csv,65,Bulgaria,coded,Bulgaria|gas|4|2022-07,
+tracker_measures_2021_2023.csv,66,Bulgaria,not_coded,,As row 64 (electricity excise)
+tracker_measures_2021_2023.csv,69,Croatia,coded,Croatia|gas|4|2022-04,
+tracker_measures_2021_2023.csv,80,Croatia,coded,Croatia|electricity|1|2022-10,
+tracker_measures_2021_2023.csv,83,Croatia,not_coded,,District heating (rule section 6)
+tracker_measures_2021_2023.csv,90,Cyprus,coded,Cyprus|electricity|4|2021-11,
+tracker_measures_2021_2023.csv,91,Cyprus,coded,Cyprus|electricity|4|2022-09,
+tracker_measures_2021_2023.csv,101,Cyprus,coded,Cyprus|electricity|4|2022-09,
+tracker_measures_2021_2023.csv,102,Czechia,coded,Czechia|electricity|4|2021-11; Czechia|gas|4|2021-11,
+tracker_measures_2021_2023.csv,107,Czechia,coded,Czechia|electricity|1|2023-01; Czechia|gas|1|2023-01,
+tracker_measures_2021_2023.csv,113,Denmark,coded,Denmark|electricity|4|2023-01,
+tracker_measures_2021_2023.csv,133,Estonia,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,134,Estonia,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,141,Estonia,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,142,Estonia,not_coded,,"Deferral of a scheduled excise increase, not a reduction (code 4 requires a cut)"
+tracker_measures_2021_2023.csv,144,Estonia,coded,Estonia|electricity|1|2022-10,
+tracker_measures_2021_2023.csv,156,Finland,coded,Finland|electricity|4|2022-12,
+tracker_measures_2021_2023.csv,165,France,coded,France|gas|1|2021-11,
+tracker_measures_2021_2023.csv,166,France,coded,France|electricity|1|2022-02,
+tracker_measures_2021_2023.csv,167,France,coded,France|electricity|4|2022-02,
+tracker_measures_2021_2023.csv,177,France,coded,France|gas|1|2021-11,
+tracker_measures_2021_2023.csv,178,France,coded,France|electricity|1|2022-02,
+tracker_measures_2021_2023.csv,183,Germany,coded,Germany|electricity|4|2022-07,
+tracker_measures_2021_2023.csv,192,Germany,coded,Germany|gas|4|2022-10,
+tracker_measures_2021_2023.csv,213,Germany,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,215,Germany,coded,Germany|electricity|2|2023-01; Germany|gas|2|2023-01,
+tracker_measures_2021_2023.csv,226,Greece,coded,Greece|electricity|4|2021-09,
+tracker_measures_2021_2023.csv,227,Greece,not_coded,,Dates and terms not found yet (see not_coded_measures.csv)
+tracker_measures_2021_2023.csv,236,Hungary,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,242,Ireland,coded,Ireland|electricity|4|2022-05; Ireland|gas|4|2022-05,
+tracker_measures_2021_2023.csv,251,Ireland,coded,Ireland|electricity|4|2022-10,
+tracker_measures_2021_2023.csv,253,Ireland,coded,Ireland|electricity|4|2022-05; Ireland|gas|4|2022-05,
+tracker_measures_2021_2023.csv,256,Ireland,not_coded,,VAT for hospitality businesses; Firms or non-household customers only
+tracker_measures_2021_2023.csv,261,Italy,coded,Italy|electricity|4|2021-10; Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,262,Italy,coded,Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,263,Italy,coded,Italy|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,264,Italy,coded,Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,265,Italy,coded,Italy|electricity|5|2022-01; Italy|gas|5|2022-01,
+tracker_measures_2021_2023.csv,268,Italy,coded,Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,269,Italy,coded,Italy|electricity|5|2022-01; Italy|gas|5|2022-01,
+tracker_measures_2021_2023.csv,279,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,280,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,281,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,282,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,283,Italy,coded,Italy|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,284,Italy,coded,Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,285,Italy,coded,Italy|electricity|5|2022-01; Italy|gas|5|2022-01,
+tracker_measures_2021_2023.csv,299,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,304,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,305,Italy,coded,Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,307,Italy,coded,Italy|electricity|5|2022-01; Italy|gas|5|2022-01,
+tracker_measures_2021_2023.csv,312,Italy,coded,Italy|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,322,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,326,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,327,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,329,Italy,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,331,Italy,coded,Italy|electricity|5|2022-01; Italy|gas|5|2022-01,
+tracker_measures_2021_2023.csv,335,Italy,coded,Italy|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,341,Italy,coded,Italy|electricity|5|2022-01; Italy|gas|5|2022-01,
+tracker_measures_2021_2023.csv,342,Italy,coded,Italy|gas|4|2021-10,
+tracker_measures_2021_2023.csv,347,Latvia,coded,Latvia|electricity|4|2022-01; Latvia|electricity|4|2022-09,
+tracker_measures_2021_2023.csv,348,Latvia,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,349,Latvia,not_coded,,Terms unclear; to classify after reading the decision (see not_coded_measures.csv)
+tracker_measures_2021_2023.csv,358,Latvia,not_coded,,Terms unclear; to classify after reading the decision (see not_coded_measures.csv)
+tracker_measures_2021_2023.csv,361,Lithuania,coded,Lithuania|electricity|1|2022-07; Lithuania|gas|1|2022-07,
+tracker_measures_2021_2023.csv,379,Lithuania,coded,Lithuania|electricity|1|2022-07; Lithuania|gas|1|2022-07,
+tracker_measures_2021_2023.csv,381,Luxembourg,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,382,Luxembourg,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,396,Luxembourg,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,397,Luxembourg,coded,Luxembourg|gas|1|2022-10,
+tracker_measures_2021_2023.csv,400,Luxembourg,coded,Luxembourg|electricity|4|2023-01; Luxembourg|gas|4|2023-01,
+tracker_measures_2021_2023.csv,410,Malta,coded,Malta|electricity|1|2022-01,
+tracker_measures_2021_2023.csv,417,Netherlands,coded,Netherlands|electricity|4|2022-01; Netherlands|gas|4|2022-01,
+tracker_measures_2021_2023.csv,421,Netherlands,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,425,Netherlands,coded,Netherlands|electricity|4|2022-01,
+tracker_measures_2021_2023.csv,428,Netherlands,coded,Netherlands|electricity|4|2022-01; Netherlands|gas|4|2022-01,
+tracker_measures_2021_2023.csv,430,Netherlands,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,434,Netherlands,coded,Netherlands|electricity|2|2023-01; Netherlands|gas|2|2023-01,
+tracker_measures_2021_2023.csv,445,Poland,coded,Poland|electricity|4|2022-01; Poland|gas|4|2022-01,
+tracker_measures_2021_2023.csv,446,Poland,coded,Poland|electricity|4|2022-01; Poland|gas|4|2022-01,
+tracker_measures_2021_2023.csv,452,Poland,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,454,Poland,coded,Poland|electricity|1|2023-01,
+tracker_measures_2021_2023.csv,461,Portugal,not_coded,,Firms or non-household customers only
+tracker_measures_2021_2023.csv,462,Portugal,not_coded,,"Network charges, not a tax or levy (see not_coded_measures.csv)"
+tracker_measures_2021_2023.csv,463,Portugal,not_coded,,Wholesale intervention (Iberian gas cap; rule section 6)
+tracker_measures_2021_2023.csv,469,Portugal,coded,Portugal|electricity|4|2022-10,
+tracker_measures_2021_2023.csv,480,Portugal,coded,Portugal|electricity|4|2022-10,
+tracker_measures_2021_2023.csv,481,Portugal,coded,Portugal|gas|3|2019-01,
+tracker_measures_2021_2023.csv,493,Romania,coded,Romania|electricity|1|2022-04; Romania|gas|1|2022-04,
+tracker_measures_2021_2023.csv,494,Romania,coded,Romania|electricity|1|2022-04; Romania|gas|1|2022-04,
+tracker_measures_2021_2023.csv,495,Slovakia,not_coded,,Firms or non-household customers only
+tracker_measures_2021_2023.csv,497,Slovenia,coded,Slovenia|electricity|4|2022-02; Slovenia|gas|4|2022-02,
+tracker_measures_2021_2023.csv,500,Slovenia,not_coded,,Motor or heating fuels (rule section 6)
+tracker_measures_2021_2023.csv,511,Spain,not_coded,,Cut in electricity system charges financed by a windfall levy; Spain electricity is already code 4 in these months (recorded in the VAT and IEE rows)
+tracker_measures_2021_2023.csv,513,Spain,coded,Spain|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,515,Spain,coded,Spain|electricity|4|2021-07,
+tracker_measures_2021_2023.csv,517,Spain,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2021_2023.csv,523,Spain,coded,Spain|electricity|4|2021-07; Spain|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,525,Spain,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2021_2023.csv,527,Spain,not_coded,,Wholesale intervention (Iberian gas cap; rule section 6)
+tracker_measures_2021_2023.csv,528,Spain,coded,Spain|gas|1|2022-01,
+tracker_measures_2021_2023.csv,532,Spain,not_coded,,"Tax on generators (IVPEE), not a tax on household bills"
+tracker_measures_2021_2023.csv,533,Spain,not_coded,,Wholesale intervention (Iberian gas cap; rule section 6)
+tracker_measures_2021_2023.csv,539,Spain,coded,Spain|electricity|4|2021-07,
+tracker_measures_2021_2023.csv,544,Spain,coded,Spain|gas|4|2022-10,
+tracker_measures_2021_2023.csv,545,Spain,coded,Spain|gas|1|2022-01,
+tracker_measures_2021_2023.csv,547,Spain,not_coded,,"Collective heating installations (homeowners' associations), not household supply contracts"
+tracker_measures_2021_2023.csv,548,Spain,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2021_2023.csv,549,Spain,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2021_2023.csv,550,Spain,not_coded,,Firms or non-household customers only
+tracker_measures_2021_2023.csv,551,Spain,not_coded,,Wholesale intervention (Iberian gas cap; rule section 6)
+tracker_measures_2021_2023.csv,558,Spain,coded,Spain|electricity|4|2021-07; Spain|electricity|4|2021-10,
+tracker_measures_2021_2023.csv,565,Spain,coded,Spain|gas|4|2022-10,
+tracker_measures_2021_2023.csv,566,Sweden,coded,Sweden|electricity|5|2021-12,
+tracker_measures_2021_2023.csv,591,UK,coded,United Kingdom|electricity|1|2022-10; United Kingdom|gas|1|2022-10,
+tracker_measures_2026.csv,2,Belgium,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row; mainly fossil heating fuels"
+tracker_measures_2026.csv,9,Croatia,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2026.csv,10,Cyprus,coded,Cyprus|electricity|4|2021-11,
+tracker_measures_2026.csv,15,France,not_coded,,"Permanent low-income energy voucher (chèque énergie), not a crisis measure; Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2026.csv,30,Netherlands,not_coded,,"Hardship fund, not a price measure"
+tracker_measures_2026.csv,31,Netherlands,not_coded,,"Loans for home efficiency, not a price measure"
+tracker_measures_2026.csv,32,Netherlands,not_coded,,"Efficiency advice programme, not a price measure"
+tracker_measures_2026.csv,33,Netherlands,not_coded,,"Insulation programme, not a price measure"
+tracker_measures_2026.csv,36,Netherlands,not_coded,,"Efficiency subsidies, not a price measure"
+tracker_measures_2026.csv,44,Spain,coded,Spain|electricity|4|2026-04; Spain|gas|4|2026-04,
+tracker_measures_2026.csv,46,Spain,not_coded,,"Targeted transfer or social tariff; code 5 at most, not a separate row"
+tracker_measures_2026.csv,48,Sweden,coded,Sweden|electricity|5|2026-06,

@@ -1,0 +1,42 @@
+country,product,month,type,code,code_after,measure,event_id
+Austria,electricity,2025-01,exit,2,6.0,Electricity cost brake: subsidy bringing the price down to 10 ct/kWh on up to 2 900 kWh a year (support up to 30 ct; reduced from July 2024),Austria|electricity|2025-01|exit
+Belgium,electricity,2023-07,exit,1,6.0,Extended social energy tariff (regulated low price) for a wider group of households,Belgium|electricity|2023-07|exit
+Belgium,gas,2023-07,exit,1,6.0,Extended social energy tariff (regulated low price) for a wider group of households,Belgium|gas|2023-07|exit
+Croatia,electricity,2022-04,step-up,1,,"Government package of 16 February 2022 limits the 1 April 2022 increase in HEP's household tariff items to 15% (average bill +9.6%), with HEP bearing about HRK 460 million (2022-04:+15%)",Croatia|electricity|2022-04|step-up
+Czechia,electricity,2024-01,exit,1,6.0,Cap on the electricity supply price: 6 CZK/kWh incl. VAT (5 CZK excl. VAT) on all consumption (Government Regulation 298/2022),Czechia|electricity|2024-01|exit
+Czechia,gas,2024-01,exit,1,6.0,Cap on the gas supply price: 3 CZK/kWh incl. VAT (2.5 CZK excl. VAT) on all consumption (Government Regulation 298/2022),Czechia|gas|2024-01|exit
+Estonia,electricity,2022-04,exit,2,6.0,Compensation of the household electricity price above 12 ct/kWh for consumption up to 650 kWh a month,Estonia|electricity|2022-04|exit
+Estonia,electricity,2024-07,exit,1,6.0,"Universal service: optional regulated electricity price based on Eesti Energia's production cost, approved by the Competition Authority",Estonia|electricity|2024-07|exit
+Estonia,gas,2022-04,exit,2,6.0,Compensation of the household gas price above 6.5 ct/kWh for consumption up to 2.75 MWh a month,Estonia|gas|2022-04|exit
+Estonia,gas,2023-04,exit,2,6.0,"Compensation of 80% of the household gas price above 80 EUR/MWh excl. VAT, for consumption up to 2.6 MWh a month",Estonia|gas|2023-04|exit
+France,electricity,2022-02,step-up,1,,Tariff shield: government sets TRVE below CRE proposals (2022-02:+4%),France|electricity|2022-02|step-up
+France,electricity,2023-02,step-up,1,,Tariff shield: government sets TRVE below CRE proposals (2023-02:+15%),France|electricity|2023-02|step-up
+France,electricity,2023-08,step-up,1,,Tariff shield: government sets TRVE below CRE proposals (2023-08:+10%),France|electricity|2023-08|step-up
+France,electricity,2024-02,exit,1,3.0,Tariff shield: government sets TRVE below CRE proposals,France|electricity|2024-02|exit
+France,gas,2023-01,step-up,1,,TRVG frozen at October 2021 level (décret of 23 Oct 2021; finance law 2022 art. 181; amending finance law 2022 art. 37); from Jan 2023 October 2021 level +15% (2023-01:+15%),France|gas|2023-01|step-up
+France,gas,2023-07,exit,1,6.0,TRVG frozen at October 2021 level (décret of 23 Oct 2021; finance law 2022 art. 181; amending finance law 2022 art. 37); from Jan 2023 October 2021 level +15%,France|gas|2023-07|exit
+Germany,electricity,2024-01,exit,2,4.0,Electricity price brake: 40 ct/kWh on 80% of forecast consumption (StromPBG),Germany|electricity|2024-01|exit
+Germany,gas,2024-01,exit,2,4.0,Gas price brake: 12 ct/kWh on 80% of the September 2022 forecast consumption (EWPBG),Germany|gas|2024-01|exit
+Hungary,electricity,2022-08,step-up,1,,Household price fixed by decree (utility cost reduction); from August 2022 the fixed price applies up to average consumption and a higher government-set price above it (Decree 259/2022) (2022-08:+100% above average),Hungary|electricity|2022-08|step-up
+Hungary,gas,2022-08,step-up,1,,Household price fixed by decree; from August 2022 the fixed price applies up to average consumption and a higher government-set price above it (Decree 259/2022) (2022-08:+600% above average),Hungary|gas|2022-08|step-up
+Italy,electricity,2024-07,exit,3,6.0,Regulated 'maggior tutela' tariff updated quarterly by ARERA,Italy|electricity|2024-07|exit
+Italy,gas,2022-10,exit,3,4.0,Regulated gas 'tutela' updated quarterly by ARERA,Italy|gas|2022-10|exit
+Latvia,gas,2023-05,exit,3,6.0,"Regulated household gas tariff of Latvijas Gāze for captive (non-switching) customers, revised twice a year (1 January and 1 July) on the current gas price under an SPRK decision",Latvia|gas|2023-05|exit
+Lithuania,electricity,2023-06,exit,1,6.0,"State compensation of the household electricity price above a threshold (above 24 ct/kWh, up to 9 ct/kWh, in July-December 2022; above 28 ct/kWh in 2023)",Lithuania|electricity|2023-06|exit
+Luxembourg,electricity,2024-01,exit,1,6.0,Household electricity price stabilised at the 2022 level (Solidaritéitspak 2.0),Luxembourg|electricity|2024-01|exit
+Luxembourg,gas,2022-10,step-up,1,,Household gas price increase limited to +15% over the September 2022 average (state subsidy) (2022-10:+15%),Luxembourg|gas|2022-10|step-up
+Luxembourg,gas,2024-01,exit,1,6.0,Household gas price increase limited to +15% over the September 2022 average (state subsidy),Luxembourg|gas|2024-01|exit
+Netherlands,electricity,2024-01,exit,2,6.0,Price cap: 0.40 EUR/kWh on consumption up to 2 900 kWh a year,Netherlands|electricity|2024-01|exit
+Netherlands,gas,2024-01,exit,2,6.0,Price cap: 1.45 EUR/m3 on consumption up to 1 200 m3 a year,Netherlands|gas|2024-01|exit
+Poland,electricity,2024-07,exit,1,3.0,Price freeze at 412 PLN/MWh net up to 2 000 kWh a year and 693 PLN/MWh above (maximum price),Poland|electricity|2024-07|exit
+Poland,gas,2024-07,exit,1,3.0,Maximum household gas price of about 200 PLN/MWh net (200.17 PLN/MWh in the first half of 2024),Poland|gas|2024-07|exit
+Romania,electricity,2025-07,exit,1,6.0,"Household price cap by 2021 average monthly consumption: 0.68 lei/kWh incl. VAT up to 100 kWh, 0.8 lei/kWh for 100-300 kWh (OUG 27/2022); revised tiers from 2023 (OUG 119/2022)",Romania|electricity|2025-07|exit
+Romania,gas,2026-04,exit,1,6.0,Household gas price cap (0.31 lei/kWh incl. VAT) (OUG 27/2022 and extensions),Romania|gas|2026-04|exit
+Slovakia,gas,2023-01,step-up,1,,Household gas price increase limited to 15% in 2023 with state compensation (2023-01:+15%),Slovakia|gas|2023-01|step-up
+Slovakia,gas,2024-01,exit,1,3.0,Household gas price increase limited to 15% in 2023 with state compensation,Slovakia|gas|2024-01|exit
+Slovenia,electricity,2024-01,exit,1,2.0,Regulated maximum household electricity price (government decrees),Slovenia|electricity|2024-01|exit
+Slovenia,electricity,2025-03,exit,1,6.0,Regulated price of 77 EUR/MWh for all household consumption (November 2024 to February 2025),Slovenia|electricity|2025-03|exit
+Slovenia,gas,2024-05,exit,1,6.0,Cap on household gas prices in the 2024 heating season,Slovenia|gas|2024-05|exit
+Spain,gas,2024-07,exit,1,3.0,"Increase in the raw-material cost component of the TUR limited to 15% per quarterly revision, with the deficit recovered later (RDL 17/2021, additional provision 7; extended to the revisions up to 1 April 2024)",Spain|gas|2024-07|exit
+United Kingdom,electricity,2023-07,exit,1,3.0,Energy Price Guarantee: support discount on unit rates for all domestic contracts,United Kingdom|electricity|2023-07|exit
+United Kingdom,gas,2023-07,exit,1,3.0,Energy Price Guarantee: support discount on unit rates for all domestic contracts,United Kingdom|gas|2023-07|exit

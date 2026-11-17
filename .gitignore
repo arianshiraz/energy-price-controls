@@ -1,0 +1,29 @@
+# Downloaded data are not redistributed
+data/raw/*
+!data/raw/README.md
+data/derived/*
+!data/derived/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Assistant and personal notes stay local (never commit conversation or application material)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+notes/
+*.private.md
+
+# Word version of the paper stays local; the PDF is committed
+paper/*.docx
+
+# Extracts of the Bruegel trackers (CC BY-ND 4.0): rebuilt locally by code/01, not redistributed
+data/classification/tracker_measures_*.csv

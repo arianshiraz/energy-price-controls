@@ -1,0 +1,621 @@
+date,row,column,old,new
+2026-11-11,Czechia|electricity|2023-01|1,source_url,https://www.iea.org/policies/16878-2023-cap-on-electricity-and-gas-prices,https://www.tzb-info.cz/pravni-predpisy/narizeni-vlady-c-298-2022-sb-o-stanoveni-cen-elektriny-a-plynu-v-mimoradne-trzni-situaci
+2026-11-11,Czechia|electricity|2023-01|1,source_ref,IEA policy database entry; Eurofound factsheet CZ-2023-1,Government Regulation 298/2022 Coll. (text as amended): in force from 1 January 2023; § 4(1) the set price applies to all electricity supplied to low-voltage household connections; customer declarations valid to 31 December 2023
+2026-11-11,Czechia|electricity|2023-01|1,evidence,secondary,primary
+2026-11-11,Czechia|electricity|2023-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Czechia|electricity|2023-01|1,verified,no,yes
+2026-11-11,Czechia|electricity|2023-01|1,notes,Distribution charges not capped; the tracker dates the cap from November 2022 and the IEA from November 2022 for some customers; to confirm in the regulation text,Price level (5 CZK/kWh excl. VAT) from the IEA policy database (secondary); the consolidated text read does not state it in this form
+2026-11-11,Czechia|gas|2023-01|1,source_url,https://www.iea.org/policies/16878-2023-cap-on-electricity-and-gas-prices,https://www.tzb-info.cz/pravni-predpisy/narizeni-vlady-c-298-2022-sb-o-stanoveni-cen-elektriny-a-plynu-v-mimoradne-trzni-situaci
+2026-11-11,Czechia|gas|2023-01|1,source_ref,IEA policy database entry; Eurofound factsheet CZ-2023-1,Government Regulation 298/2022 Coll.: in force from 1 January 2023; § 4(3) the set gas price applies to all gas supplied to household and small customers
+2026-11-11,Czechia|gas|2023-01|1,evidence,secondary,primary
+2026-11-11,Czechia|gas|2023-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Czechia|gas|2023-01|1,verified,no,yes
+2026-11-11,Czechia|gas|2023-01|1,notes,As electricity,Price level (2.5 CZK/kWh excl. VAT) from the IEA policy database (secondary)
+2026-11-11,Hungary|electricity|2019-01|1,source_url,https://static.eurofound.europa.eu/covid19db/cases/HU-2022-32_2778,https://njt.jog.gov.hu/jogszabaly/2022-259-20-22
+2026-11-11,Hungary|electricity|2019-01|1,source_ref,Eurofound factsheet HU-2022-32 (Decree 259/2022 of 21 July 2022); Budapost (above-average electricity at twice the capped price),Government Decree 259/2022 (VII. 21.) § 2(1): from 1 August 2022 households receive the universal-service price up to 2 523 kWh a year per metering point
+2026-11-11,Hungary|electricity|2019-01|1,evidence,secondary,primary
+2026-11-11,Hungary|electricity|2019-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Hungary|electricity|2019-01|1,verified,no,yes
+2026-11-11,Hungary|gas|2019-01|1,source_url,https://static.eurofound.europa.eu/covid19db/cases/HU-2022-32_2778,https://njt.jog.gov.hu/jogszabaly/2022-259-20-22
+2026-11-11,Hungary|gas|2019-01|1,source_ref,Eurofound factsheet HU-2022-32; Budapost (above-average gas at seven times the capped price),Government Decree 259/2022 (VII. 21.) § 5(1): from 1 August 2022 the universal-service gas price applies up to an annual quantity based on average consumption
+2026-11-11,Hungary|gas|2019-01|1,evidence,secondary,primary
+2026-11-11,Hungary|gas|2019-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Hungary|gas|2019-01|1,verified,no,yes
+2026-11-11,Romania|electricity|2022-04|1,measure,Household price cap by consumption tier (0.68 lei/kWh incl. VAT up to 100 kWh a month; higher capped tiers above) (OUG 27/2022 and extensions),"Household price cap by 2021 average monthly consumption: 0.68 lei/kWh incl. VAT up to 100 kWh, 0.8 lei/kWh for 100-300 kWh (OUG 27/2022); revised tiers from 2023 (OUG 119/2022)"
+2026-11-11,Romania|electricity|2022-04|1,coverage_note,All households,"In the original OUG 27/2022 households above 300 kWh a month (2021 average) were not capped; their share is to source, expected to be small"
+2026-11-11,Romania|electricity|2022-04|1,source_url,https://romania.europalibera.org/amp/prelungire-plafoane-electricitate-gaze/33330305.html,https://www.engie.ro/wp-content/uploads/2022/03/OUG-nr-27-din-2022-pdf.pdf
+2026-11-11,Romania|electricity|2022-04|1,source_ref,Radio Free Europe Romania on the extensions; digi24 (electricity extended to 30 June 2025 by OUG 6/2025),"OUG 27/2022 art. 1(1)(a)-(b), consumption from 1 April 2022 to 31 March 2023 (official text as published by a supplier)"
+2026-11-11,Romania|electricity|2022-04|1,evidence,secondary,primary
+2026-11-11,Romania|electricity|2022-04|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Romania|electricity|2022-04|1,verified,no,yes
+2026-11-11,Romania|electricity|2022-04|1,notes,An earlier compensation and cap scheme ran from November 2021 to March 2022 (OUG 118/2021; not yet coded). Whether all consumption was capped in 2022 (code 1) or only the first tiers (code 2) to confirm,Extensions to 30 June 2025 (OUG 6/2025) from news reports (secondary). An earlier scheme from November 2021 to March 2022 (OUG 118/2021) not yet coded
+2026-11-11,Romania|gas|2022-04|1,source_url,https://romania.europalibera.org/amp/prelungire-plafoane-electricitate-gaze/33330305.html,https://www.engie.ro/wp-content/uploads/2022/03/OUG-nr-27-din-2022-pdf.pdf
+2026-11-11,Romania|gas|2022-04|1,source_ref,Radio Free Europe Romania; digi24 (gas extended to 31 March 2026 by OUG 6/2025),"OUG 27/2022 art. 1(2)(a): maximum 0.31 lei/kWh incl. VAT for household customers, consumption from 1 April 2022 to 31 March 2023"
+2026-11-11,Romania|gas|2022-04|1,evidence,secondary,primary
+2026-11-11,Romania|gas|2022-04|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Romania|gas|2022-04|1,verified,no,yes
+2026-11-11,Romania|gas|2022-04|1,notes,,Extension to 31 March 2026 (OUG 6/2025) from news reports (secondary)
+2026-11-11,Poland|gas|2023-01|1,measure,Household gas price frozen at 200 PLN/MWh net,Maximum household gas price of about 200 PLN/MWh net (200.17 PLN/MWh in the first half of 2024)
+2026-11-11,Poland|gas|2023-01|1,source_url,https://think.ing.com/articles/polands-adjustment-in-retail-electricity-and-gas-prices-postponed-to-2h-2024,https://eli.gov.pl/api/acts/DU/2024/303/text/U/D20240303Lj.pdf
+2026-11-11,Poland|gas|2023-01|1,source_ref,ING research note (gas frozen at 200 PLN/MWh against a 484 PLN/MWh URE tariff in 2023; freeze to H1 2024),"Act published in Dz.U. 2024 item 303, art. 3 (maximum price 200.17 PLN/MWh, 1 January to 30 June 2024); URE: tariffs apply again from 1 July 2024 (+19% on average for households)"
+2026-11-11,Poland|gas|2023-01|1,evidence,secondary,primary
+2026-11-11,Poland|gas|2023-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Poland|gas|2023-01|1,verified,no,yes
+2026-11-11,Poland|gas|2023-01|1,notes,,Exit event 2024-07 when the URE tariff replaced the maximum price. Legal basis for 2023 (2022 act) to cite
+2026-11-11,Slovenia|electricity|2022-09|1,source_url,https://static.eurofound.europa.eu/covid19db/cases/SI-2022-36_2839.html,https://www.uradni-list.si/_pdf/2022/Ur/u2022095.pdf
+2026-11-11,Slovenia|electricity|2022-09|1,source_ref,Eurofound factsheet SI-2022-36; Slovenian government session of 22 Dec 2022,"Decree on setting electricity prices, Official Gazette 95/2022: household tariffs from 1 September 2022"
+2026-11-11,Slovenia|electricity|2022-09|1,evidence,secondary,primary
+2026-11-11,Slovenia|electricity|2022-09|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Slovenia|electricity|2022-09|1,verified,no,yes
+2026-11-11,Slovenia|electricity|2022-09|1,notes,,Extended to the end of 2023 by later decrees (a decree in Official Gazette 45/2023 covers July to December 2023)
+2026-11-11,Slovenia|electricity|2024-11|1,measure,Regulated price for all household consumption,Regulated price of 77 EUR/MWh for all household consumption (November 2024 to February 2025)
+2026-11-11,Slovenia|electricity|2024-11|1,source_url,https://gen-i.si/media/b1mduetn/2025_02_17-primerjava-mesecnih-racunov-za-elektricno-energijo_eng-gb.pdf,https://www.gov.si/novice/2024-11-14-vlada-sprejela-vec-ukrepov-za-omilitev-visokih-racunov-za-elektriko-v-zimski-sezoni/
+2026-11-11,Slovenia|electricity|2024-11|1,source_ref,Supplier comparison (GEN-I),Government news of 14 Nov 2024 (decree in Official Gazette 96/2024)
+2026-11-11,Slovenia|electricity|2024-11|1,evidence,secondary,primary
+2026-11-11,Slovenia|electricity|2024-11|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Slovenia|electricity|2024-11|1,verified,no,yes
+2026-11-11,Slovenia|electricity|2024-11|1,notes,,
+2026-11-11,Slovenia|gas|2024-01|1,added,,Cap on household gas prices in the 2024 heating season
+2026-11-11,Croatia|electricity|2022-10|1,measure,Household electricity price held unchanged by government decision,"Household electricity price set by government decree (59 EUR/MWh energy price from October 2022), prolonged with periodic revisions"
+2026-11-11,Croatia|electricity|2022-10|1,source_url,https://balkangreenenergynews.com/croatia-caps-power-prices-for-households-businesses,https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_104_1519.html
+2026-11-11,Croatia|electricity|2022-10|1,source_ref,Balkan Green Energy News; Bruegel tracker (price cap from October 2022),Decree on eliminating disturbances in the domestic energy market (Narodne novine 104/2022) and amendments; new household energy price from 1 October 2025 (Narodne novine 121/2025)
+2026-11-11,Croatia|electricity|2022-10|1,evidence,secondary,primary
+2026-11-11,Croatia|electricity|2022-10|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Croatia|electricity|2022-10|1,verified,no,yes
+2026-11-11,Croatia|electricity|2022-10|1,notes,End date to find (prices later raised in steps),Price changes under the decree (for example October 2025) to record as step-ups
+2026-11-11,Croatia|gas|2022-04|1,source_url,https://www.iea.org/policies/17396-hrk-21-billion-energy-price-package,https://vlada.gov.hr/paket-mjera-za-ublazavanje-rasta-cijena-energenata/33906
+2026-11-11,Croatia|gas|2022-04|1,source_ref,IEA policy database (HRK 21 billion package),Government package of measures against rising energy prices (household gas prices held by regulated prices; VAT on gas cut to 5%)
+2026-11-11,Croatia|gas|2022-04|1,evidence,secondary,primary
+2026-11-11,Croatia|gas|2022-04|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Croatia|gas|2022-04|1,verified,no,yes
+2026-11-11,Croatia|gas|2022-04|1,notes,Start and end to confirm,End date and later price steps to find
+2026-11-11,Croatia|gas|2022-04|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://vlada.gov.hr/paket-mjera-za-ublazavanje-rasta-cijena-energenata/33906
+2026-11-11,Croatia|gas|2022-04|4,source_ref,Bruegel tracker (Croatia sheet),Government package of measures (VAT on gas reduced to 5%)
+2026-11-11,Croatia|gas|2022-04|4,evidence,secondary,primary
+2026-11-11,Croatia|gas|2022-04|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Croatia|gas|2022-04|4,verified,no,yes
+2026-11-11,Norway|electricity|2021-12|1,end_month,2023-12,
+2026-11-11,Norway|electricity|2021-12|1,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.regjeringen.no/no/tema/energi/stromnettet/stromstotte/id2900232/
+2026-11-11,Norway|electricity|2021-12|1,source_ref,Bruegel tracker (Norway sheet; extended in the 2023 budget),"Government page on electricity measures: support covers 90% of the hourly spot price above a threshold (77 øre/kWh excl. VAT at the time of reading), up to 5 000 kWh a month per metering point; proposed to run to 31 December 2029"
+2026-11-11,Norway|electricity|2021-12|1,evidence,secondary,primary
+2026-11-11,Norway|electricity|2021-12|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Norway|electricity|2021-12|1,verified,no,yes
+2026-11-11,Norway|electricity|2021-12|1,notes,"Amendment 1, case 2: the 5 000 kWh a month limit is above the consumption of most households, so coded 1. The scheme continued after 2023 and a fixed-price option (Norgespris) started in October 2025 (to confirm and code)","Amendment 1, case 2. Threshold and share changed over time (70 øre and 80-90% in 2022-2023); dates of changes to record as step-ups"
+2026-11-11,Norway|electricity|2025-10|1,added,,Norgespris: optional fixed electricity price of 40 øre/kWh excl. VAT
+2026-11-11,Spain|gas|2021-10|1,end_month,2023-12,2024-06
+2026-11-11,Spain|gas|2021-10|1,measure,Cap of 15% on the increase of the raw-material cost component in TUR revisions,"Increase in the raw-material cost component of the TUR limited to 15% per quarterly revision, with the deficit recovered later (RDL 17/2021, additional provision 7; extended to the revisions up to 1 April 2024)"
+2026-11-11,Spain|gas|2021-10|1,source_url,https://www.deia.eus/actualidad/sociedad/2022/09/29/tarifa-gas-natural-baja-7-6062009.amp.html,https://BOE.ES/boe/dias/2021/09/29/pdfs/BOE-A-2021-15778.pdf
+2026-11-11,Spain|gas|2021-10|1,source_ref,"News reports that the raw-material cost increase in the TUR is limited to 15% by successive rules, kept for the April and July 2022 revisions",BOE resolution of 29 Sept 2021 (TUR from 1 October 2021); RDL 8/2023 art. 37 (limit applied in the revisions from 1 April 2022 to 1 April 2024); BOE resolution of 29 March 2024 (BOE-A-2024-6302)
+2026-11-11,Spain|gas|2021-10|1,evidence,secondary,primary
+2026-11-11,Spain|gas|2021-10|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Spain|gas|2021-10|1,verified,no,yes
+2026-11-11,Spain|gas|2021-10|1,notes,Start and end dates are placeholders until the BOE resolutions are read; tests run with and without this row,"Limit binds only when costs rise more than 15% in a quarter; TUR customers only (share to source). Ends after the April 2024 revision, so last month 2024-06"
+2026-11-11,Belgium|electricity|2022-03|1,start_month,2022-03,2021-02
+2026-11-11,Belgium|electricity|2022-03|1,coverage_share,0.2,0.19
+2026-11-11,Belgium|electricity|2022-03|1,coverage_note,Approximate share of households eligible after the extension; to source,About 948 000 households received the electricity social tariff after the extension (press reports of CREG figures) out of roughly 5 million households
+2026-11-11,Belgium|electricity|2022-03|1,source_url,https://static.eurofound.europa.eu/covid19db/cases/BE-2022-10_2405.html,https://uvcw.be/no_index/files/10977-ar230319-tsbim.pdf
+2026-11-11,Belgium|electricity|2022-03|1,source_ref,Eurofound factsheet BE-2022-10; Bruegel tracker,Royal decree of 19 March 2023 extending the maximum prices for BIM beneficiaries to 1 July 2023 (as published by the Union of Walloon Cities); extension to BIM beneficiaries since February 2021
+2026-11-11,Belgium|electricity|2022-03|1,evidence,secondary,primary
+2026-11-11,Belgium|electricity|2022-03|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Belgium|electricity|2022-03|1,verified,no,yes
+2026-11-11,Belgium|electricity|2022-03|1,notes,Phased out from April 2023,"Extension began in February 2021 (a COVID-19 measure, before the shock); benefit reduced from April 2023 and ended 1 July 2023"
+2026-11-11,Belgium|gas|2022-03|1,start_month,2022-03,2021-02
+2026-11-11,Belgium|gas|2022-03|1,coverage_share,0.2,0.12
+2026-11-11,Belgium|gas|2022-03|1,coverage_note,As electricity,About 600 000 households for gas (press reports of CREG figures) out of roughly 5 million households
+2026-11-11,Belgium|gas|2022-03|1,source_url,https://static.eurofound.europa.eu/covid19db/cases/BE-2022-10_2405.html,https://uvcw.be/no_index/files/10977-ar230319-tsbim.pdf
+2026-11-11,Belgium|gas|2022-03|1,source_ref,Eurofound factsheet BE-2022-10,Royal decree of 19 March 2023 (extension to 1 July 2023)
+2026-11-11,Belgium|gas|2022-03|1,evidence,secondary,primary
+2026-11-11,Belgium|gas|2022-03|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Belgium|gas|2022-03|1,verified,no,yes
+2026-11-11,Belgium|gas|2022-03|1,notes,,As electricity
+2026-11-11,Lithuania|electricity|2022-04|2,code,2,1
+2026-11-11,Lithuania|electricity|2022-04|2,start_month,2022-04,2022-07
+2026-11-11,Lithuania|electricity|2022-04|2,end_month,2023-06,2023-05
+2026-11-11,Lithuania|electricity|2022-04|2,measure,State compensation of part of the household electricity price above a threshold,"State compensation of the household electricity price above a threshold (above 24 ct/kWh, up to 9 ct/kWh, in July-December 2022; above 28 ct/kWh in 2023)"
+2026-11-11,Lithuania|electricity|2022-04|2,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://static.eurofound.europa.eu/covid19db/cases/LT-2022-27_2898.html
+2026-11-11,Lithuania|electricity|2022-04|2,source_ref,Bruegel tracker (Lithuania sheet),Eurofound factsheet LT-2022-27 (Government Resolution No. 553 of 30 May 2022); LRT news of 31 May 2023 (electricity compensation scrapped)
+2026-11-11,Lithuania|electricity|2022-04|2,notes,"Amendment 1, case 1 provisionally: threshold compensation; code 1 if no quantity limit is found","Amendment 1, case 2 (no quantity limit), but the compensation per kWh was capped, so very high prices passed through. Resolution 553 itself to read"
+2026-11-11,Lithuania|gas|2022-04|2,code,2,1
+2026-11-11,Lithuania|gas|2022-04|2,start_month,2022-04,2022-07
+2026-11-11,Lithuania|gas|2022-04|2,end_month,2023-06,
+2026-11-11,Lithuania|gas|2022-04|2,measure,State compensation of part of the household gas price above a threshold,"State compensation of the household gas price (up to 54 ct/m3 in July-December 2022), extended in 2023"
+2026-11-11,Lithuania|gas|2022-04|2,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://static.eurofound.europa.eu/covid19db/cases/LT-2022-27_2898.html
+2026-11-11,Lithuania|gas|2022-04|2,source_ref,Bruegel tracker (Lithuania sheet),Eurofound factsheet LT-2022-27; LRT news of 31 May 2023 (gas compensation extended)
+2026-11-11,Lithuania|gas|2022-04|2,notes,"Amendment 1, case 1 provisionally: threshold compensation; code 1 if no quantity limit is found","Amendment 1, case 2 provisionally; end date to find"
+2026-11-11,Slovakia|electricity|2023-01|1,end_month,2025-12,2023-12
+2026-11-11,Slovakia|electricity|2023-01|1,measure,Household electricity price frozen through a supply deal with Slovenské elektrárne (61.2 EUR/MWh excl. VAT),"Maximum price for regulated electricity supply to households in 2023 (Government Regulation 19/2023), backed by the supply deal with Slovenské elektrárne"
+2026-11-11,Slovakia|electricity|2023-01|1,source_url,https://www.enerdata.net/publications/daily-energy-news/slovakias-se-agrees-cap-electricity-prices-households-until-2024.html,https://static.slov-lex.sk/pdf/SK/ZZ/2023/19/ZZ_2023_19_20230118.pdf
+2026-11-11,Slovakia|electricity|2023-01|1,source_ref,Enerdata news on the 2022 deal (to 2024) and on the extension to 2025,Government Regulation 19/2023 Coll. (maximum prices for regulated electricity supply to small customers and part of the regulated gas supply to households in 2023)
+2026-11-11,Slovakia|electricity|2023-01|1,evidence,secondary,primary
+2026-11-11,Slovakia|electricity|2023-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Slovakia|electricity|2023-01|1,verified,no,yes
+2026-11-11,Slovakia|electricity|2023-01|1,notes,Status in 2026 not yet found,2024 and 2025 in the next row
+2026-11-11,Slovakia|electricity|2024-01|1,added,,Household electricity price kept at the 2023 level in 2024 and 2025 (supply deal with Slovenské elektrárne at about 61 EUR/MWh)
+2026-11-11,Slovakia|electricity|2026-01|1,added,,2026 energy aid: nuclear electricity at a regulated 72.70 EUR/MWh for eligible households
+2026-11-11,Slovakia|gas|2023-01|1,source_url,https://enrsi.stvr.sk/articles/news/333755/electricity-and-gas-prices-to-skyrocket-without-govt-intervention,https://static.slov-lex.sk/pdf/SK/ZZ/2023/19/ZZ_2023_19_20230118.pdf
+2026-11-11,Slovakia|gas|2023-01|1,source_ref,"Slovak public radio: 2023 package kept electricity unchanged and raised gas and heat by 15% (without it, regulated gas +225%)",Government Regulation 19/2023 Coll. (maximum prices for part of the regulated gas supply to households in 2023); Regulation 465/2022
+2026-11-11,Slovakia|gas|2023-01|1,evidence,secondary,primary
+2026-11-11,Slovakia|gas|2023-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Slovakia|gas|2023-01|1,verified,no,yes
+2026-11-11,Spain|gas|2021-10|1,start_month,2021-10,2022-01
+2026-11-11,Spain|gas|2021-10|1,source_url,https://BOE.ES/boe/dias/2021/09/29/pdfs/BOE-A-2021-15778.pdf,https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6302
+2026-11-11,Spain|gas|2021-10|1,source_ref,BOE resolution of 29 Sept 2021 (TUR from 1 October 2021); RDL 8/2023 art. 37 (limit applied in the revisions from 1 April 2022 to 1 April 2024); BOE resolution of 29 March 2024 (BOE-A-2024-6302),"BOE resolution of 26 March 2024 (BOE-A-2024-6302), preamble: RDL 17/2021 DA 7 sets a 15% maximum increase in the raw-material cost at the 1 January 2022 revision; RDL 6/2022 DA 6 extends it to the revisions of 1 April 2022 to 1 October 2023; RDL 8/2023 art. 37 extends it to the revision of 1 April 2024, included"
+2026-11-11,Spain|gas|2021-10|1,notes,"Limit binds only when costs rise more than 15% in a quarter; TUR customers only (share to source). Ends after the April 2024 revision, so last month 2024-06","First binding revision is 1 January 2022 (start 2022-01). Limit binds only when costs rise more than 15% in a quarter; TUR customers only (share to source). Last revision covered is 1 April 2024, so last month 2024-06"
+2026-11-11,Belgium|electricity|2021-02|1,source_ref,Royal decree of 19 March 2023 extending the maximum prices for BIM beneficiaries to 1 July 2023 (as published by the Union of Walloon Cities); extension to BIM beneficiaries since February 2021,"Royal decree of 19 March 2023 (Moniteur belge, C-2023/41192): extends maximum prices for protected residential customers to BIM beneficiaries until 1 July 2023; the extension was created by the royal decree of 28 January 2021"
+2026-11-11,Belgium|gas|2021-02|1,source_ref,Royal decree of 19 March 2023 (extension to 1 July 2023),"Royal decree of 19 March 2023 (Moniteur belge, C-2023/41192); royal decree of 28 January 2021 (gas protected-customer list extended to BIM beneficiaries)"
+2026-11-11,Luxembourg|electricity|2023-01|1,coverage_note,All households,Residential customers with annual consumption below 25 MWh (almost all households)
+2026-11-11,Luxembourg|electricity|2023-01|1,source_url,https://en.paperjam.lu/article/stabilising-electricity-prices,https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/12-decembre/31-nouveautes-2023.html
+2026-11-11,Luxembourg|electricity|2023-01|1,source_ref,Paperjam,"Government note 'Nouveautés 2023' (stabilisation for residents below 25 000 kWh a year, 1 January to 31 December 2023); Chamber of Commerce opinion 6229 on the bill, quoting the law of 23 December 2022 (negative contribution to the compensation mechanism to keep prices stable relative to 2022 for customers at or below 25 MWh a year)"
+2026-11-11,Luxembourg|electricity|2023-01|1,evidence,secondary,primary
+2026-11-11,Luxembourg|electricity|2023-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Luxembourg|electricity|2023-01|1,verified,no,yes
+2026-11-11,Luxembourg|electricity|2023-01|1,notes,Network-charge subsidy from February 2022 recorded in not_coded_measures,Extension into 2024 under Solidaritéitspak 3.0 (agreement of 7 March 2023) reported but not yet read in a legal text. Network-charge subsidy from February 2022 recorded in not_coded_measures
+2026-11-11,Luxembourg|gas|2022-10|1,source_url,https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2023/01-janvier/o4-turmes-cdp.html,https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/12-decembre/31-nouveautes-2023.html
+2026-11-11,Luxembourg|gas|2022-10|1,source_ref,Government press release of January 2023 (in force since October 2022 and until December 2023),Government note 'Nouveautés 2023': limitation of the natural gas price increase and state coverage of network charges until 31 December 2023 (law of 2 December 2022)
+2026-11-11,Luxembourg|gas|2022-10|1,evidence,primary,primary
+2026-11-11,Luxembourg|gas|2022-10|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Luxembourg|gas|2022-10|1,verified,yes,yes
+2026-11-11,Luxembourg|gas|2022-10|1,notes,Extension into 2024 to check,"The +15% reference level is from the tracker; the government note confirms the measure and its end date, not the percentage. Extension into 2024 to check"
+2026-11-11,Slovenia|gas|2022-09|1,measure,Regulated maximum household gas price (0.095 EUR/kWh in 2023),"Regulated maximum gas price for protected customers, mainly households (0.07300 EUR/kWh excl. VAT for households from 1 September 2022)"
+2026-11-11,Slovenia|gas|2022-09|1,source_url,https://static.eurofound.europa.eu/covid19db/cases/SI-2022-36_2839.html,https://www.gov.si/novice/2022-07-22-vlada-dolocila-najvisje-dovoljene-maloprodajne-cene-zemeljskega-plina-za-zascitene-odjemalce/
+2026-11-11,Slovenia|gas|2022-09|1,source_ref,Eurofound factsheet SI-2022-36 (gas cap from 1 Sept 2022; extended to end 2023),"Government news of 22 July 2022: decree (Official Gazette 98/2022) in force 1 September 2022 to 31 August 2023; household tariff 0.07300 EUR/kWh excl. VAT. Follow-on decree in Official Gazette 45/2023 runs 1 September to 31 December 2023 (gazette entry seen in search; text not read, the gazette site's certificate had expired)"
+2026-11-11,Slovenia|gas|2022-09|1,evidence,secondary,primary
+2026-11-11,Slovenia|gas|2022-09|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Slovenia|gas|2022-09|1,verified,no,yes
+2026-11-11,Slovenia|gas|2022-09|1,notes,2024 gas regime to check,The 2023 price level (earlier recorded as 0.095 EUR/kWh) is not confirmed and was removed from the measure text. 2024 heating-season cap in a separate row
+2026-11-11,Estonia|electricity|2022-10|2,code,2,1
+2026-11-11,Estonia|electricity|2022-10|2,measure,Energy subsidy: compensation of household electricity prices above a threshold,"Compensation of the household electricity price above 8 ct/kWh excl. VAT, up to 5 ct/kWh, on the monthly average price"
+2026-11-11,Estonia|electricity|2022-10|2,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.kik.ee/en/grants/energy-price-compensation-household-consumers
+2026-11-11,Estonia|electricity|2022-10|2,source_ref,Bruegel tracker (Estonia sheet),"Environmental Investment Centre (KIK), administrator of the scheme: applies to energy consumed 1 October 2022 to 31 March 2023; automatic deduction by the seller"
+2026-11-11,Estonia|electricity|2022-10|2,evidence,secondary,primary
+2026-11-11,Estonia|electricity|2022-10|2,read_date,2026-11-08,2026-11-11
+2026-11-11,Estonia|electricity|2022-10|2,verified,no,yes
+2026-11-11,Estonia|electricity|2022-10|2,notes,"Amendment 1, case 1: threshold compensation up to a monthly quantity limit, coded 2 (terms of the October 2022 to March 2023 scheme to confirm)","Amendment 1: threshold compensation with no quantity limit stated (the gas scheme states one, the electricity scheme does not), so code 1; the compensation per kWh is capped at 5 ct. A universal-service (regulated) electricity offer was available from 1 October 2022: whether to code it is a design question"
+2026-11-11,Estonia|gas|2022-10|2,added,,"Compensation of 80% of the household gas price above 80 EUR/MWh excl. VAT, for consumption up to 2.6 MWh a month"
+2026-11-11,Estonia|electricity|2022-01|2,source_ref,Bruegel tracker (Estonia sheet),"Bruegel tracker; terms (12 ct/kWh, 650 kWh a month, January to March 2022) agree with the City of Tartu notice and the IEA policy database (secondary). Riigi Teataja act not found"
+2026-11-11,Estonia|electricity|2022-01|2,read_date,2026-11-08,2026-11-11
+2026-11-11,Estonia|electricity|2022-01|2,notes,"Amendment 1, case 1: threshold compensation up to a monthly quantity limit, coded 2 (terms of the October 2022 to March 2023 scheme to confirm)","Amendment 1, case 1: threshold compensation up to a monthly quantity limit. Legal text to find"
+2026-11-11,Estonia|gas|2022-01|2,read_date,2026-11-08,2026-11-11
+2026-11-11,Estonia|gas|2022-01|2,notes,"Amendment 1, case 1: threshold compensation up to a monthly quantity limit, coded 2 (terms of the October 2022 to March 2023 scheme to confirm)","Amendment 1, case 1: threshold compensation up to a monthly quantity limit. Legal text to find"
+2026-11-11,Malta|electricity|2022-01|1,source_url,https://imf.org/-/media/Files/Publications/CR/2023/English/1MLTEA2023002.ashx,https://static.eurofound.europa.eu/covid19db/cases/MT-2022-1_2177.html
+2026-11-11,Malta|electricity|2022-01|1,source_ref,IMF Article IV selected issues 2023 (Malta froze electricity and fuel prices through subsidies to Enemalta),Eurofound PolicyWatch MT-2022-1 (open-ended from 1 January 2022; EUR 200 million set aside for Enemalta; households pay the same electricity rate since 2014; update of 12 April 2026 on continued subsidies); IMF 2023 Article IV report (freeze and compensation to Enemalta)
+2026-11-11,Malta|electricity|2022-01|1,evidence,secondary,secondary
+2026-11-11,Malta|electricity|2022-01|1,read_date,2026-11-08,2026-11-11
+2026-11-11,Malta|electricity|2022-01|1,verified,no,no
+2026-11-11,Malta|electricity|2022-01|1,notes,"Start month approximate; tariffs said to be unchanged since 2014, not confirmed","Ongoing in 2026. The Maltese budget documents and the IMF report refuse scripted access (HTTP 403); a primary text is still to read. Tariffs regulated before the shock (baseline 1), so the measure is a freeze of a regulated tariff"
+2026-11-11,Austria|electricity|2022-05|4,end_month,2023-06,2024-12
+2026-11-11,Austria|electricity|2022-05|4,measure,Electricity tax cut (relief package II),Electricity tax (Elektrizitätsabgabe) cut to the EU minimum
+2026-11-11,Austria|electricity|2022-05|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_201/BGBLA_2023_I_201.pdf
+2026-11-11,Austria|electricity|2022-05|4,source_ref,Bruegel tracker (Austria sheet),BGBl. I 64/2023 art. 2 (end date in § 7(11)-(12) moved from 1 July 2023 to 1 January 2024); BGBl. I 201/2023 art. 3 (moved to 1 January 2025). Start 1 May 2022 per the Austrian Economic Chamber (WKO)
+2026-11-11,Austria|electricity|2022-05|4,evidence,secondary,primary
+2026-11-11,Austria|electricity|2022-05|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Austria|electricity|2022-05|4,verified,no,yes
+2026-11-11,Austria|electricity|2022-05|4,notes,,Last month 2024-12
+2026-11-11,Austria|gas|2022-05|4,end_month,2023-06,2024-12
+2026-11-11,Austria|gas|2022-05|4,measure,Natural gas tax cut (relief package II),Natural gas tax (Erdgasabgabe) cut to the EU minimum
+2026-11-11,Austria|gas|2022-05|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2023_I_201/BGBLA_2023_I_201.pdf
+2026-11-11,Austria|gas|2022-05|4,source_ref,Bruegel tracker (Austria sheet),BGBl. I 64/2023 art. 1 (end date in § 8(6) moved from 1 July 2023 to 1 January 2024); BGBl. I 201/2023 art. 4 (moved to 1 January 2025)
+2026-11-11,Austria|gas|2022-05|4,evidence,secondary,primary
+2026-11-11,Austria|gas|2022-05|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Austria|gas|2022-05|4,verified,no,yes
+2026-11-11,Austria|gas|2022-05|4,notes,,Last month 2024-12
+2026-11-11,Finland|electricity|2023-01|4,start_month,2023-01,2022-12
+2026-11-11,Finland|electricity|2023-01|4,measure,VAT on electricity cut from 24% to 10%,VAT on electricity cut from 24% to 10% (energy component only)
+2026-11-11,Finland|electricity|2023-01|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.riksdagen.fi/pdf/VaVM+22/2022
+2026-11-11,Finland|electricity|2023-01|4,source_ref,Bruegel tracker (Finland sheet),Finance Committee report VaVM 22/2022 on HE 194/2022: reduced rate applies 1 December 2022 to 30 April 2023; not to network charges or electricity tax (Act 870/2022)
+2026-11-11,Finland|electricity|2023-01|4,evidence,secondary,primary
+2026-11-11,Finland|electricity|2023-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Finland|electricity|2023-01|4,verified,no,yes
+2026-11-11,Finland|electricity|2023-01|4,notes,Start may be December 2022 (to confirm),Start corrected from 2023-01 to 2022-12
+2026-11-11,Netherlands|electricity|2022-01|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.rijksoverheid.nl/onderwerpen/koopkracht/nieuws/2022/03/11/maatregelenpakket-om-gevolgen-stijgende-energieprijzen-en-aanhoudende-inflatie-te-verzachten
+2026-11-11,Netherlands|electricity|2022-01|4,source_ref,Bruegel tracker (Netherlands sheet),"Government news of 11 March 2022: VAT on energy (gas, electricity, district heat) cut from 21% to 9% from 1 July 2022 for six months. Energy-tax change from January 2022 (lower electricity rate, higher tax credit): parliamentary paper kst-1018990, table of bill components"
+2026-11-11,Netherlands|electricity|2022-01|4,evidence,secondary,primary
+2026-11-11,Netherlands|electricity|2022-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Netherlands|electricity|2022-01|4,verified,no,yes
+2026-11-11,Netherlands|electricity|2022-01|4,notes,VAT cut July to December 2022 only; energy tax cuts in 2022 and 2023 budgets; dates to confirm with the Belastingdienst,The VAT step (2022-07 to 2022-12) is inside this row; the 2023 energy-tax reduction is from the tracker and still to read in the Belastingplan 2023
+2026-11-11,Netherlands|gas|2022-01|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.rijksoverheid.nl/onderwerpen/koopkracht/nieuws/2022/03/11/maatregelenpakket-om-gevolgen-stijgende-energieprijzen-en-aanhoudende-inflatie-te-verzachten
+2026-11-11,Netherlands|gas|2022-01|4,source_ref,Bruegel tracker (Netherlands sheet),Government news of 11 March 2022 (VAT on energy 9% from 1 July 2022 for six months)
+2026-11-11,Netherlands|gas|2022-01|4,evidence,secondary,primary
+2026-11-11,Netherlands|gas|2022-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Netherlands|gas|2022-01|4,verified,no,yes
+2026-11-11,Netherlands|gas|2022-01|4,notes,As electricity,2022 and 2023 energy-tax changes on gas from the tracker; to read in the Belastingplan
+2026-11-11,Ireland|electricity|2022-05|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.revenue.ie/en/tax-professionals/documents/notes-for-guidance/vat/vat-guidance-notes-fa2022.pdf
+2026-11-11,Ireland|electricity|2022-05|4,source_ref,Bruegel tracker (Ireland sheet),"Revenue guidance notes on Finance Act 2022: 9% rate on gas and electricity from 1 May 2022 (Finance (Covid-19 and Miscellaneous Provisions) Act 2022), extended to 28 February 2023"
+2026-11-11,Ireland|electricity|2022-05|4,evidence,secondary,primary
+2026-11-11,Ireland|electricity|2022-05|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Ireland|electricity|2022-05|4,verified,no,yes
+2026-11-11,Ireland|electricity|2022-05|4,notes,Start and end dates to confirm (tracker dates inconsistent),"Later six-month extensions to 31 October 2025 and the Budget 2026 extension to 31 December 2030 are from secondary sources (tax advisers, press); gov.ie refuses scripted access. Coded ongoing"
+2026-11-11,Ireland|gas|2022-05|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://www.revenue.ie/en/tax-professionals/documents/notes-for-guidance/vat/vat-guidance-notes-fa2022.pdf
+2026-11-11,Ireland|gas|2022-05|4,source_ref,Bruegel tracker (Ireland sheet),Revenue guidance notes on Finance Act 2022 (as electricity)
+2026-11-11,Ireland|gas|2022-05|4,evidence,secondary,primary
+2026-11-11,Ireland|gas|2022-05|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Ireland|gas|2022-05|4,verified,no,yes
+2026-11-11,Ireland|gas|2022-05|4,notes,As electricity,As electricity
+2026-11-11,Ireland|electricity|2022-01|4,start_month,2022-01,2022-10
+2026-11-11,Ireland|electricity|2022-01|4,measure,Public Service Obligation levy reduced,Public Service Obligation levy set to zero (negative funding requirement for 2022/23; credit of EUR 89.10 per domestic customer paid later)
+2026-11-11,Ireland|electricity|2022-01|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://cru.ie/ga/fuinn/news/cru-publishes-public-service-obligation-levy-for-202223
+2026-11-11,Ireland|electricity|2022-01|4,source_ref,Bruegel tracker (Ireland sheet),CRU decision on the PSO levy for 1 October 2022 to 30 September 2023: funding requirement minus EUR 491.25 million; legislation amended in June 2022 to allow a negative levy
+2026-11-11,Ireland|electricity|2022-01|4,evidence,secondary,primary
+2026-11-11,Ireland|electricity|2022-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Ireland|electricity|2022-01|4,verified,no,yes
+2026-11-11,Ireland|electricity|2022-01|4,notes,,"Start corrected from 2022-01 to 2022-10 (the PSO year). The negative levy follows the RESS support design (generators return revenues above a strike price), so the cut is formula-driven rather than a discretionary decision: design question whether to keep it as code 4. Zero levy also in 2023/24"
+2026-11-11,Czechia|electricity|2021-11|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273
+2026-11-11,Czechia|electricity|2021-11|4,source_ref,Bruegel tracker (Czechia sheet),Ministry of Finance press release of 20 October 2021: general waiver of VAT on supplies of electricity and gas for November and December 2021; the saving appears in the final bill settlement
+2026-11-11,Czechia|electricity|2021-11|4,evidence,secondary,primary
+2026-11-11,Czechia|electricity|2021-11|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Czechia|electricity|2021-11|4,verified,no,yes
+2026-11-11,Czechia|electricity|2021-11|4,notes,,"Monthly advance payments were unchanged; the relief shows only in the annual settlement, so how the statistical office recorded it in the HICP is a design question. Press reports say a later review found the waiver unlawful"
+2026-11-11,Czechia|gas|2021-11|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://mf.gov.cz/cs/aktualne/tiskove-zpravy/2021/nulove-dph-na-elektrickou-energii-a-plyn-43273
+2026-11-11,Czechia|gas|2021-11|4,source_ref,Bruegel tracker (Czechia sheet),Ministry of Finance press release of 20 October 2021 (as electricity)
+2026-11-11,Czechia|gas|2021-11|4,evidence,secondary,primary
+2026-11-11,Czechia|gas|2021-11|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Czechia|gas|2021-11|4,verified,no,yes
+2026-11-11,Czechia|gas|2021-11|4,notes,,As electricity
+2026-11-11,Poland|electricity|2022-01|4,source_url,https://www.iea.org/policies/16514,https://api.sejm.gov.pl/eli/acts/DU/2022/196/text.pdf
+2026-11-11,Poland|electricity|2022-01|4,source_ref,IEA policy database (Anti-Inflation Shield); Bruegel tracker (Poland sheet),"Act of 13 January 2022 (Dz.U. 2022 item 196), art. 146db: VAT on electricity 5% from 1 February to 31 July 2022; 8% VAT and excise cut in January 2022 and extension to 31 December 2022 from secondary sources (IEA 16731)"
+2026-11-11,Poland|electricity|2022-01|4,evidence,secondary,primary
+2026-11-11,Poland|electricity|2022-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Poland|electricity|2022-01|4,verified,no,yes
+2026-11-11,Poland|electricity|2022-01|4,notes,Exact months to confirm in the acts,Legal texts for January 2022 and the extension to December 2022 still to cite
+2026-11-11,Poland|gas|2022-01|4,source_url,https://www.iea.org/policies/16514,https://api.sejm.gov.pl/eli/acts/DU/2022/196/text.pdf
+2026-11-11,Poland|gas|2022-01|4,source_ref,IEA policy database; sources disagree on 0% or 8%,"Act of 13 January 2022 (Dz.U. 2022 item 196), art. 146da(1)(5): VAT on natural gas 0% from 1 February to 31 July 2022; 8% in January 2022 and extension to 31 December 2022 from secondary sources"
+2026-11-11,Poland|gas|2022-01|4,evidence,secondary,primary
+2026-11-11,Poland|gas|2022-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Poland|gas|2022-01|4,verified,no,yes
+2026-11-11,Poland|gas|2022-01|4,notes,,As electricity
+2026-11-11,Belgium|electricity|2022-03|4,source_url,https://www.vrt.be/vrtnws/en/2023/03/31/reduction-in-vat-on-gas-and-electricity-becomes-permanent-from-1,https://www.uvcw.be/no_index/files/11242-circ-2023-c-64---tva---%C3%A9nergie.pdf
+2026-11-11,Belgium|electricity|2022-03|4,source_ref,"VRT news (permanent from 1 April 2023, with excise duties to offset revenue); Bruegel tracker (temporary cut from March 2022)","Finance circular 2023/C/64 (rate change on 1 March 2022 for electricity; 6% made permanent by the law of 19 March 2023 from 1 April 2023, with a transition to 30 June 2023); offsetting excise from 1 April 2023"
+2026-11-11,Belgium|electricity|2022-03|4,evidence,secondary,primary
+2026-11-11,Belgium|electricity|2022-03|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Belgium|electricity|2022-03|4,verified,no,yes
+2026-11-11,Belgium|electricity|2022-03|4,notes,From April 2023 the excise offsets part of the cut; treated as in force throughout,From April 2023 the 6% rate is permanent and an excise set from the 2021 VAT difference offsets it at moderate prices: design question whether code 4 continues after 2023-03
+2026-11-11,Belgium|gas|2022-04|4,source_url,https://www.vrt.be/vrtnws/en/2023/03/31/reduction-in-vat-on-gas-and-electricity-becomes-permanent-from-1,https://www.uvcw.be/no_index/files/11242-circ-2023-c-64---tva---%C3%A9nergie.pdf
+2026-11-11,Belgium|gas|2022-04|4,source_ref,VRT news; Bruegel tracker,Finance circular 2023/C/64 (gas at 6% from 1 April 2022; permanent from 1 April 2023)
+2026-11-11,Belgium|gas|2022-04|4,evidence,secondary,primary
+2026-11-11,Belgium|gas|2022-04|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Belgium|gas|2022-04|4,verified,no,yes
+2026-11-11,Belgium|gas|2022-04|4,notes,As electricity,As electricity
+2026-11-11,Denmark|electricity|2022-06|4,start_month,2022-06,2023-01
+2026-11-11,Denmark|electricity|2022-06|4,end_month,2023-12,2023-06
+2026-11-11,Denmark|electricity|2022-06|4,measure,Electricity tax reduced,Electricity tax cut to the EU minimum of 0.8 øre/kWh for six months (normal rate 69.7 øre/kWh)
+2026-11-11,Denmark|electricity|2022-06|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://fm.dk/media/cwuduimq/faktaark_lempelse-af-elafgift-til-minimumssats-i-seks-maaneder.pdf
+2026-11-11,Denmark|electricity|2022-06|4,source_ref,Bruegel tracker (Denmark sheet),Ministry of Finance fact sheet of 23 September 2022: tax cut to the EU minimum for six months from 1 January 2023 (Act 1389/2022)
+2026-11-11,Denmark|electricity|2022-06|4,evidence,secondary,primary
+2026-11-11,Denmark|electricity|2022-06|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Denmark|electricity|2022-06|4,verified,no,yes
+2026-11-11,Denmark|electricity|2022-06|4,notes,Cut to the EU minimum applied in the first half of 2023 (to confirm the months),Dates corrected from 2022-06 to 2023-12 to 2023-01 to 2023-06. Smaller 2022 adjustments not coded
+2026-11-11,Latvia|electricity|2022-01|4,end_month,2023-04,2022-04
+2026-11-11,Latvia|electricity|2022-01|4,measure,Mandatory procurement component (OIK) on electricity bills covered by the state,Mandatory procurement and capacity components (OIK) reduced on household bills
+2026-11-11,Latvia|electricity|2022-01|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://likumi.lv/ta/id/335146-grozijumi-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likuma
+2026-11-11,Latvia|electricity|2022-01|4,source_ref,Bruegel tracker (Latvia sheet),"Amendments to the Energy Price Relief Law, art. 5(2): OIK reduction for 1 January to 30 April 2022"
+2026-11-11,Latvia|electricity|2022-01|4,evidence,secondary,primary
+2026-11-11,Latvia|electricity|2022-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Latvia|electricity|2022-01|4,verified,no,yes
+2026-11-11,Latvia|electricity|2022-01|4,notes,,Split: second spell from 2022-09 in a separate row
+2026-11-11,Latvia|electricity|2022-09|4,added,,Mandatory procurement and capacity components (OIK) not charged to end users (state-covered)
+2026-11-11,Spain|electricity|2024-01|4,measure,VAT on electricity at 10% in 2024 when the previous month's wholesale price exceeded 45 EUR/MWh,"VAT on electricity at 10% in 2024, reverting to 21% in a billing month when the average day-ahead price of the previous calendar month was at or below 45 EUR/MWh"
+2026-11-11,Spain|electricity|2024-01|4,source_url,https://www.renewableenergymagazine.com/panorama/sube-al-21-el-iva-de-la-20240301,https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-26452
+2026-11-11,Spain|electricity|2024-01|4,source_ref,RDL 8/2023; news report that VAT returned to 21% from 1 March 2024 (February pool price 41 EUR/MWh),"RDL 8/2023 of 27 December (BOE-A-2023-26452): 10% VAT on electricity from 1 January to 31 December 2024 (5% until 31 December 2023), subject to the 45 EUR/MWh condition"
+2026-11-11,Spain|electricity|2024-01|4,evidence,secondary,primary
+2026-11-11,Spain|electricity|2024-01|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Spain|electricity|2024-01|4,verified,no,yes
+2026-11-11,Spain|electricity|2024-01|4,notes,Month-by-month rate in 2024 depends on the previous month's pool price; months to confirm with the tax agency,"Months at 21% (March to June 2024) from press reports of the February to May 2024 day-ahead averages; to cross-check with OMIE monthly prices. The rate depends on the wholesale price, so this spell is tied to the exposure variable: note for the design"
+2026-11-11,Spain|electricity|2024-07|4,source_url,https://www.energias-renovables.com/panorama/el-iva-vuelve-al-10-en-julio-20240827,https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-26452
+2026-11-11,Spain|electricity|2024-07|4,source_ref,News report that VAT returned to 10% in July 2024,RDL 8/2023 (as the first 2024 spell)
+2026-11-11,Spain|electricity|2024-07|4,evidence,secondary,primary
+2026-11-11,Spain|electricity|2024-07|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Spain|electricity|2024-07|4,verified,no,yes
+2026-11-11,Spain|electricity|2024-07|4,notes,Months to confirm with the tax agency,As the first 2024 spell
+2026-11-11,Spain|gas|2026-04|4,source_url,https://www.bolsamania.com/noticias_print/economia/economia--la-rebaja-del-iva-y-otros-impuestos-a-la-luz-y-el-gas-decaen-este-lunes-por-la-moderacion-de-los-precios--22583912.html,https://sede.agenciatributaria.gob.es/Sede/todas-noticias/2026/marzo/23/medidas-materia-tributacion.html
+2026-11-11,Spain|gas|2026-04|4,source_ref,News report that the cuts lapsed on 1 June 2026,Tax Agency notice of 23 March 2026 on RDL 7/2026: VAT on natural gas cut from 21% to 10% until 30 June 2026; hydrocarbon-tax cuts from 22 March 2026 (art. 38). Return of gas VAT to 21% from 1 June 2026 per the Madrid city consumer note of June 2026 (RDL 18/2026)
+2026-11-11,Spain|gas|2026-04|4,evidence,secondary,primary
+2026-11-11,Spain|gas|2026-04|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Spain|gas|2026-04|4,verified,no,yes
+2026-11-11,Spain|gas|2026-04|4,notes,One source says gas VAT at 10% was extended to 30 September 2026; to confirm,"Starts 22 March 2026, after the 15th, so first month 2026-04. End month from the June 2026 change; RDL 18/2026 text still to read"
+2026-11-11,Portugal|electricity|2022-10|4,end_month,2023-12,2024-12
+2026-11-11,Portugal|electricity|2022-10|4,measure,VAT on electricity cut from 13% to 6% (Famílias Primeiro),"VAT on electricity cut from 13% to 6% on the first 100 kWh a month (150 kWh for large families), contracted power up to 6.9 kVA"
+2026-11-11,Portugal|electricity|2022-10|4,coverage_note,All consumers,Applies only to the first 100 kWh a month of each eligible household
+2026-11-11,Portugal|electricity|2022-10|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://static.eurofound.europa.eu/covid19db/cases/PT-2022-43_3048.html
+2026-11-11,Portugal|electricity|2022-10|4,source_ref,Bruegel tracker (Portugal sheet),"Eurofound PolicyWatch PT-2022-43, citing Law 19/2022 of 21 October, art. 4 (October 2022 to December 2023; record updated to 31 December 2024)"
+2026-11-11,Portugal|electricity|2022-10|4,evidence,secondary,secondary
+2026-11-11,Portugal|electricity|2022-10|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Portugal|electricity|2022-10|4,verified,no,no
+2026-11-11,Portugal|electricity|2022-10|4,notes,,"Law 38/2024 widened the reduced rate to 200 kWh (300 for large families) from January 2025 per press reports; if confirmed, a further row from 2025-01. Law texts in the Diário da República still to read"
+2026-11-11,Cyprus|electricity|2021-11|4,end_month,2022-12,
+2026-11-11,Cyprus|electricity|2021-11|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://static.eurofound.europa.eu/covid19db/cases/CY-2022-22_2821.html
+2026-11-11,Cyprus|electricity|2021-11|4,source_ref,Bruegel tracker (Cyprus sheet),"Eurofound PolicyWatch CY-2022-22 (decree cutting household electricity VAT from 19% to 9%, 5% for vulnerable groups, first issued late 2021 and repeatedly extended, including March-April 2023); press reports of extensions to March 2026 and March 2027"
+2026-11-11,Cyprus|electricity|2021-11|4,evidence,secondary,secondary
+2026-11-11,Cyprus|electricity|2021-11|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Cyprus|electricity|2021-11|4,verified,no,no
+2026-11-11,Cyprus|electricity|2021-11|4,notes,,Coded ongoing. Whether every month from 2021-11 was covered (gaps between decrees in 2023-2024) is still to confirm against the Ministry of Finance decrees
+2026-11-11,Cyprus|electricity|2022-09|4,end_month,2023-02,2024-04
+2026-11-11,Cyprus|electricity|2022-09|4,source_url,https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices,https://static.eurofound.europa.eu/covid19db/cases/CY-2022-22_2821.html
+2026-11-11,Cyprus|electricity|2022-09|4,source_ref,Bruegel tracker (Cyprus sheet),Eurofound PolicyWatch CY-2022-22: electricity cost subsidy extended by Cabinet decision of 21 February 2024 to 30 April 2024
+2026-11-11,Cyprus|electricity|2022-09|4,evidence,secondary,secondary
+2026-11-11,Cyprus|electricity|2022-09|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Cyprus|electricity|2022-09|4,verified,no,no
+2026-11-11,Cyprus|electricity|2022-09|4,notes,"Amendment 1, case 3: fixed per-kWh subsidy, coded 4",End moved from 2023-02 to 2024-04; continuity between spells and the subsidy rate per kWh still to confirm
+2026-11-11,Greece|electricity|2021-09|4,read_date,2026-11-08,2026-11-11
+2026-11-11,Greece|electricity|2021-09|4,notes,"Amendment 1, case 3: fixed per-kWh subsidy by consumption tier, coded 4. End date to confirm","Amendment 1, case 3 (subsidy per kWh). Smaller monthly subsidies continued in some months of 2024 and 2025 (for example 1.5 ct/kWh up to 500 kWh in December 2024, per press); not coded. Ministry decisions still to read"
+2026-11-11,France|electricity|baseline,notes,Regulated tariffs (TRVE) set on CRE proposal,Regulated tariffs (TRVE) set on CRE proposal; agrees with ACER Figure 48
+2026-11-11,France|electricity|baseline,source_ref,CRE retail market observatory Q4 2021 press release,"CRE retail market observatory Q4 2021 press release; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,France|gas|baseline,notes,Regulated tariffs (TRVG) of Engie under the formula of the arrêté of 28 June 2021; abolished 30 June 2023,Regulated tariffs (TRVG) of Engie under the formula of the arrêté of 28 June 2021; abolished 30 June 2023; agrees with ACER Figure 48
+2026-11-11,France|gas|baseline,source_ref,CRE communication 2022-360 p2-3,"CRE communication 2022-360 p2-3; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Germany|electricity|baseline,notes,No regulated household prices; default supply (Grundversorgung) prices are set by suppliers. Source to add (ACER/CEER retail monitoring 2021),No regulated household prices; default supply (Grundversorgung) prices are set by suppliers. Source to add (ACER/CEER retail monitoring 2021); agrees with ACER Figure 48
+2026-11-11,Germany|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Germany|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Germany|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,Germany|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Germany|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Spain|electricity|baseline,notes,"Regulated PVPC tariff indexed to the daily wholesale price (no lag, so code 6 under the rule); free-market contracts unregulated. Source to add (CNMC)","Regulated PVPC tariff indexed to the daily wholesale price (no lag, so code 6 under the rule); free-market contracts unregulated. Source to add (CNMC); agrees with ACER Figure 48"
+2026-11-11,Spain|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Spain|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Spain|gas|baseline,notes,Last-resort tariff TUR revised quarterly by formula (code 3); share of household customers on TUR to add (CNMC),"Last-resort tariff TUR revised quarterly by formula (code 3); share of household customers on TUR to add (CNMC); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Spain|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Spain|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Italy|electricity|baseline,notes,Regulated 'maggior tutela' service updated quarterly by ARERA (code 3) until 30 June 2024 for non-vulnerable households; share of households to source from ARERA,Regulated 'maggior tutela' service updated quarterly by ARERA (code 3) until 30 June 2024 for non-vulnerable households; share of households to source from ARERA; agrees with ACER Figure 48
+2026-11-11,Italy|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Italy|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Italy|gas|baseline,notes,"Regulated gas 'tutela' updated quarterly by ARERA until September 2022, then monthly ex post (no lag); ended for non-vulnerable households in January 2024","Regulated gas 'tutela' updated quarterly by ARERA until September 2022, then monthly ex post (no lag); ended for non-vulnerable households in January 2024; agrees with ACER Figure 48"
+2026-11-11,Italy|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Italy|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,United Kingdom|electricity|baseline,notes,Default tariff cap (Great Britain); Northern Ireland has separate regulation,Default tariff cap (Great Britain); Northern Ireland has separate regulation; agrees with ACER Figure 48
+2026-11-11,United Kingdom|electricity|baseline,source_ref,Ofgem default tariff cap letter (cap in force since 1 January 2019),"Ofgem default tariff cap letter (cap in force since 1 January 2019); ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,United Kingdom|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,United Kingdom|gas|baseline,source_ref,Ofgem default tariff cap letter,"Ofgem default tariff cap letter; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Czechia|electricity|baseline,notes,No regulated retail supply price before the shock (network charges regulated),No regulated retail supply price before the shock (network charges regulated); agrees with ACER Figure 48
+2026-11-11,Czechia|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Czechia|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Czechia|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,Czechia|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Czechia|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Slovakia|electricity|baseline,notes,Household supply prices regulated by URSO (set annually),Household supply prices regulated by URSO (set annually); agrees with ACER Figure 48
+2026-11-11,Slovakia|electricity|baseline,source_ref,URSO note on regulated household prices,"URSO note on regulated household prices; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Slovakia|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,Slovakia|gas|baseline,source_ref,URSO note on regulated household prices,"URSO note on regulated household prices; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Hungary|electricity|baseline,notes,Household prices fixed by government decree since 2013 (rezsicsökkentés),Household prices fixed by government decree since 2013 (rezsicsökkentés); agrees with ACER Figure 48
+2026-11-11,Hungary|electricity|baseline,source_ref,Eurofound factsheet,"Eurofound factsheet; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Hungary|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,Hungary|gas|baseline,source_ref,Eurofound factsheet,"Eurofound factsheet; ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Netherlands|electricity|baseline,notes,No regulated retail prices,"No regulated retail prices; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Netherlands|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Netherlands|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Netherlands|gas|baseline,notes,No regulated retail prices,"No regulated retail prices; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Netherlands|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Netherlands|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Romania|electricity|baseline,notes,Household electricity prices deregulated from January 2021 (to source),"Household electricity prices deregulated from January 2021 (to source); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Romania|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Romania|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Romania|gas|baseline,notes,Household gas prices deregulated from July 2020 (to source),"Household gas prices deregulated from July 2020 (to source); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Romania|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Romania|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Poland|electricity|baseline,notes,Household electricity tariffs (G tariffs) approved annually by URE (code 3),Household electricity tariffs (G tariffs) approved annually by URE (code 3); agrees with ACER Figure 48
+2026-11-11,Poland|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Poland|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Poland|gas|baseline,notes,Household gas tariffs approved by URE (code 3),Household gas tariffs approved by URE (code 3); agrees with ACER Figure 48
+2026-11-11,Poland|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Poland|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Slovenia|electricity|baseline,notes,No regulated household retail prices before September 2022 (to source),No regulated household retail prices before September 2022 (to source); agrees with ACER Figure 48
+2026-11-11,Slovenia|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Slovenia|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Slovenia|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,Slovenia|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Slovenia|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Croatia|electricity|baseline,notes,Household electricity supplied under a regulated universal-service price (to source),"Household electricity supplied under a regulated universal-service price (to source); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Croatia|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Croatia|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Croatia|gas|baseline,notes,Household gas supplied under a regulated public-service price (to source),Household gas supplied under a regulated public-service price (to source); agrees with ACER Figure 48
+2026-11-11,Croatia|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Croatia|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Austria|electricity|baseline,notes,No regulated retail prices,No regulated retail prices; agrees with ACER Figure 48
+2026-11-11,Austria|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Austria|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Austria|gas|baseline,notes,No regulated retail prices,No regulated retail prices; agrees with ACER Figure 48
+2026-11-11,Austria|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Austria|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Belgium|electricity|baseline,notes,No regulated retail prices except the social tariff for eligible households,No regulated retail prices except the social tariff for eligible households; agrees with ACER Figure 48
+2026-11-11,Belgium|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Belgium|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Belgium|gas|baseline,notes,As electricity,"As electricity; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Belgium|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Belgium|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Greece|electricity|baseline,notes,No regulated retail prices (to confirm),"No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Greece|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Greece|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Greece|gas|baseline,notes,No regulated retail prices (to confirm),"No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Greece|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Greece|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Luxembourg|electricity|baseline,notes,Retail prices not regulated (to confirm),Retail prices not regulated (to confirm); agrees with ACER Figure 48
+2026-11-11,Luxembourg|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Luxembourg|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Luxembourg|gas|baseline,notes,As electricity,As electricity; agrees with ACER Figure 48
+2026-11-11,Luxembourg|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Luxembourg|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Malta|electricity|baseline,notes,Tariffs set by the state supplier Enemalta and approved by government; no household piped gas,Tariffs set by the state supplier Enemalta and approved by government; no household piped gas; agrees with ACER Figure 48
+2026-11-11,Malta|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Malta|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Lithuania|electricity|baseline,notes,Public-supply household prices regulated by VERT (to confirm),Public-supply household prices regulated by VERT (to confirm); agrees with ACER Figure 48
+2026-11-11,Lithuania|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Lithuania|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Lithuania|gas|baseline,notes,Household gas prices regulated by VERT (to confirm),Household gas prices regulated by VERT (to confirm); agrees with ACER Figure 48
+2026-11-11,Lithuania|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Lithuania|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Latvia|electricity|baseline,notes,No regulated household electricity prices (to confirm),No regulated household electricity prices (to confirm); agrees with ACER Figure 48
+2026-11-11,Latvia|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Latvia|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Latvia|gas|baseline,regulated_2021_07,,1
+2026-11-11,Latvia|gas|baseline,notes,Regulation status to confirm,Set from ACER Figure 48 (intervention reported). Regulation status to confirm
+2026-11-11,Latvia|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Latvia|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Estonia|electricity|baseline,notes,No regulated retail prices before the 2023 universal service (to confirm),No regulated retail prices before the 2023 universal service (to confirm); agrees with ACER Figure 48
+2026-11-11,Estonia|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Estonia|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Estonia|gas|baseline,notes,To confirm,"To confirm; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Estonia|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Estonia|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Sweden|electricity|baseline,notes,No regulated retail prices; household gas negligible,No regulated retail prices; household gas negligible; agrees with ACER Figure 48
+2026-11-11,Sweden|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Sweden|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Denmark|electricity|baseline,notes,No regulated retail prices,No regulated retail prices; agrees with ACER Figure 48
+2026-11-11,Denmark|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Denmark|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Denmark|gas|baseline,notes,No regulated retail prices,No regulated retail prices; agrees with ACER Figure 48
+2026-11-11,Denmark|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Denmark|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Finland|electricity|baseline,notes,No regulated retail prices; household gas negligible,No regulated retail prices; household gas negligible; agrees with ACER Figure 48
+2026-11-11,Finland|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Finland|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Ireland|electricity|baseline,notes,No regulated retail prices,No regulated retail prices; agrees with ACER Figure 48
+2026-11-11,Ireland|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Ireland|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Ireland|gas|baseline,notes,No regulated retail prices,No regulated retail prices; agrees with ACER Figure 48
+2026-11-11,Ireland|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Ireland|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Portugal|electricity|baseline,notes,ERSE regulated last-resort tariffs (code 3),"ERSE regulated last-resort tariffs (code 3); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Portugal|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Portugal|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Portugal|gas|baseline,notes,ERSE regulated last-resort tariffs (code 3); return to regulated tariffs allowed from October 2022,"ERSE regulated last-resort tariffs (code 3); return to regulated tariffs allowed from October 2022; ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Portugal|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Portugal|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Bulgaria|electricity|baseline,notes,Household prices regulated by EWRC (annual decisions) (code 3),"Household prices regulated by EWRC (annual decisions) (code 3); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)"
+2026-11-11,Bulgaria|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Bulgaria|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Bulgaria|gas|baseline,notes,Household gas prices regulated by EWRC (monthly) (code 3),Household gas prices regulated by EWRC (monthly) (code 3); agrees with ACER Figure 48
+2026-11-11,Bulgaria|gas|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Bulgaria|gas|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Cyprus|electricity|baseline,notes,Tariffs of the state utility EAC regulated by CERA (code 3); no household piped gas,Tariffs of the state utility EAC regulated by CERA (code 3); no household piped gas; agrees with ACER Figure 48
+2026-11-11,Cyprus|electricity|baseline,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Cyprus|electricity|baseline,source_ref,,"ACER/CEER retail monitoring report for 2021, Figure 48 (p. 65): price intervention for non-vulnerable household customers in 2021"
+2026-11-11,Spain|gas|baseline,notes,"Last-resort tariff TUR revised quarterly by formula (code 3); share of household customers on TUR to add (CNMC); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","Last-resort tariff TUR revised quarterly by formula (code 3); share of household customers on TUR to add (CNMC); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 1. ACER's own text (p. 66, para. 223) gives Spain a 19% share of gas households under price intervention, and the TUR is set by BOE resolutions under a quarterly formula (BOE-A-2024-6302)"
+2026-11-11,Portugal|electricity|baseline,notes,"ERSE regulated last-resort tariffs (code 3); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","ERSE regulated last-resort tariffs (code 3); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 1. ERSE transitory regulated tariffs remained available to households; ACER p. 67, para. 227 confirms transitory gas tariffs to 31 December 2025"
+2026-11-11,Portugal|gas|baseline,notes,"ERSE regulated last-resort tariffs (code 3); return to regulated tariffs allowed from October 2022; ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","ERSE regulated last-resort tariffs (code 3); return to regulated tariffs allowed from October 2022; ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 1. ACER p. 67, para. 227: transitory tariffs available to 31 December 2025 for consumption up to 10 000 m3 a year"
+2026-11-11,Netherlands|electricity|baseline,notes,"No regulated retail prices; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","No regulated retail prices; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 0. ACER p. 66, para. 225: the Dutch regulator does not set prices and only checks that margins are not too high, which is not a regulated tariff under section 2 of the coding rule"
+2026-11-11,Netherlands|gas|baseline,notes,"No regulated retail prices; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","No regulated retail prices; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 0 (as electricity)"
+2026-11-11,Romania|electricity|baseline,notes,"Household electricity prices deregulated from January 2021 (to source); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","Household electricity prices deregulated from January 2021 (to source); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; keep 0 for July 2021 provisionally: ACER p. 66, para. 226 describes the April 2022 to March 2023 cap, so the Romanian answer appears to cover 2022 measures; deregulation dates still to source"
+2026-11-11,Romania|gas|baseline,notes,"Household gas prices deregulated from July 2020 (to source); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","Household gas prices deregulated from July 2020 (to source); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; keep 0 for July 2021 provisionally (as electricity)"
+2026-11-11,Bulgaria|electricity|baseline,notes,"Household prices regulated by EWRC (annual decisions) (code 3); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","Household prices regulated by EWRC (annual decisions) (code 3); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 1. EWRC report to the European Commission (July 2021), p. 23: end suppliers sell to households at prices determined by EWRC; p. 25: 4 541 659 of 4 544 739 household customers on the regulated market in 2020 (https://www.dker.bg/uploads/2021/annual-rep-ec-jul2021.pdf)"
+2026-11-11,Croatia|electricity|baseline,notes,"Household electricity supplied under a regulated universal-service price (to source); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","Household electricity supplied under a regulated universal-service price (to source); ACER Figure 48 reports no intervention for non-vulnerable households in 2021, which differs from this code; resolved: changed 1 to 0. HERA Annual Report 2021, p. 10: households not choosing a supplier are served by HEP Elektra under the universal service 'at a price freely determined by the company' (88% of household sales); prices were left unchanged in the second half of 2021 by the state-owned supplier, not by a regulatory decision (https://www.hera.hr/en/docs/HERA_Annual_Report_2021.pdf)"
+2026-11-11,Croatia|electricity|baseline,regulated_2021_07,1,0
+2026-11-11,Estonia|gas|baseline,notes,"To confirm; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","To confirm; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 0. Competition Authority analysis of the 2021 gas price rise, pp. 15-16: all consumers free to choose a seller since 1 July 2007; the gas component (about 60% of the price) is market-set, the other components regulated (https://www.konkurentsiamet.ee/sites/default/files/documents/2023-09/Maagaasi%20hinnat%C3%B5usu%20anal%C3%BC%C3%BCs%202021.pdf)"
+2026-11-11,Greece|electricity|baseline,notes,"No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 0. RAE National Report 2022, p. 31: retail market fully liberalised since July 2013; regulated tariffs only for social tariffs, supplier of last resort and universal service (https://www.raaey.gr/energeia/wp-content/uploads/2024/06/National-Report-2022.pdf)"
+2026-11-11,Belgium|gas|baseline,notes,"As electricity; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","As electricity; ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 0. ACER p. 66, para. 220 states that Belgian price intervention applies to vulnerable customers (the social tariff, coded separately); no regulated gas price for other households"
+2026-11-11,Greece|gas|baseline,notes,"No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code (to resolve)","No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; unresolved: ACER does not explain the Greek gas entry; gas retail regulation for households still to source from RAE"
+2026-11-11,Spain|gas|2019-01|3,source_url,,https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6302
+2026-11-11,Spain|gas|2019-01|3,source_ref,,"BOE resolution of 26 March 2024 (BOE-A-2024-6302): TUR variable term updated quarterly on 1 January, April, July and October when the raw-material cost moves by more than 2% (Order ITC/1660/2009 methodology); ACER/CEER 2021 report p. 66 (19% of gas households under price intervention)"
+2026-11-11,Spain|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,Spain|gas|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Spain|gas|2019-01|3,verified,no,yes
+2026-11-11,Spain|gas|2019-01|3,coverage_share,,0.19
+2026-11-11,Spain|gas|2019-01|3,coverage_note,Share of households on TUR to add from CNMC,"Share of gas households on price intervention in 2021 per ACER/CEER (p. 66, para. 223); below 0.5, so flagged"
+2026-11-11,Bulgaria|electricity|2019-01|3,source_url,,https://www.dker.bg/uploads/2021/annual-rep-ec-jul2021.pdf
+2026-11-11,Bulgaria|electricity|2019-01|3,source_ref,,"EWRC report to the European Commission (July 2021), pp. 23 and 25: end suppliers sell to households at prices set by EWRC; 99.9% of household customers on the regulated market in 2020"
+2026-11-11,Bulgaria|electricity|2019-01|3,evidence,secondary,primary
+2026-11-11,Bulgaria|electricity|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Bulgaria|electricity|2019-01|3,verified,no,yes
+2026-11-11,Bulgaria|electricity|2019-01|3,coverage_share,,1.00
+2026-11-11,Bulgaria|electricity|2019-01|3,notes,No household price control beyond the regulated price found yet,Annual price decisions from 1 July; treated as a lagged cost formula (code 3)
+2026-11-11,Bulgaria|gas|2019-01|3,source_url,,https://www.dker.bg/uploads/2021/annual-rep-ec-jul2021.pdf
+2026-11-11,Bulgaria|gas|2019-01|3,source_ref,,"EWRC report to the European Commission (July 2021), pp. 39-40 and 52: Bulgargaz sells to end suppliers at regulated prices; no household has switched supplier; ACER/CEER 2021 report p. 66 (100% of gas households under price intervention)"
+2026-11-11,Bulgaria|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,Bulgaria|gas|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Bulgaria|gas|2019-01|3,verified,no,yes
+2026-11-11,Bulgaria|gas|2019-01|3,coverage_share,,1.00
+2026-11-11,Cyprus|electricity|2019-01|3,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Cyprus|electricity|2019-01|3,source_ref,,"ACER/CEER 2021 retail report, Figure 48 (p. 65) and p. 66, para. 223: price intervention for non-vulnerable households, covering 100% of them"
+2026-11-11,Cyprus|electricity|2019-01|3,evidence,secondary,primary
+2026-11-11,Cyprus|electricity|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Cyprus|electricity|2019-01|3,verified,no,yes
+2026-11-11,Cyprus|electricity|2019-01|3,coverage_share,,1.00
+2026-11-11,Cyprus|electricity|2019-01|3,notes,,Regulator report (ACER/CEER) used as the primary source; the CERA tariff decision and its fuel-adjustment lag still to cite
+2026-11-11,Italy|electricity|2019-01|3,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Italy|electricity|2019-01|3,source_ref,,"ACER/CEER 2021 retail report, Figure 48 (p. 65) and p. 66, para. 226: standard offer (maggior tutela) phased out from 2024"
+2026-11-11,Italy|electricity|2019-01|3,evidence,secondary,primary
+2026-11-11,Italy|electricity|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Italy|electricity|2019-01|3,verified,no,yes
+2026-11-11,Italy|electricity|2019-01|3,notes,Ended for non-vulnerable households on 1 July 2024; continues for vulnerable households (not coded),Quarterly ARERA updates; share of households on maggior tutela still to source from ARERA
+2026-11-11,Italy|gas|2019-01|3,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Italy|gas|2019-01|3,source_ref,,"ACER/CEER 2021 retail report, Figure 48 (p. 65): price intervention for non-vulnerable gas households in 2021"
+2026-11-11,Italy|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,Italy|gas|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Italy|gas|2019-01|3,verified,no,yes
+2026-11-11,Italy|gas|2019-01|3,notes,From October 2022 the tutela price was set monthly ex post (ARERA deliberation 374/2022/R/gas): no lag,Switch from quarterly ex ante to monthly ex post updating in October 2022 (end of code 3) still to cite from ARERA
+2026-11-11,Poland|electricity|2019-01|3,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Poland|electricity|2019-01|3,source_ref,,"ACER/CEER 2021 retail report, Figure 48 (p. 65) and p. 65, para. 215: regulated household prices set to follow wholesale prices"
+2026-11-11,Poland|electricity|2019-01|3,evidence,secondary,primary
+2026-11-11,Poland|electricity|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Poland|electricity|2019-01|3,verified,no,yes
+2026-11-11,Poland|electricity|2019-01|3,notes,Source to add (URE),URE approves G-tariffs annually; share of households on approved tariffs still to source
+2026-11-11,Poland|gas|2019-01|3,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Poland|gas|2019-01|3,source_ref,,"ACER/CEER 2021 retail report, Figure 48 (p. 65): price intervention for non-vulnerable gas households in 2021"
+2026-11-11,Poland|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,Poland|gas|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Poland|gas|2019-01|3,verified,no,yes
+2026-11-11,Portugal|gas|2019-01|3,source_url,,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf
+2026-11-11,Portugal|gas|2019-01|3,source_ref,,"ACER/CEER 2021 retail report, p. 67, para. 227: transitory regulated gas tariffs available to 31 December 2025 for consumption up to 10 000 m3 a year"
+2026-11-11,Portugal|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,Portugal|gas|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,Portugal|gas|2019-01|3,verified,no,yes
+2026-11-11,Portugal|gas|2019-01|3,notes,,Share of households on transitory tariffs still to source from ERSE (likely below 0.5)
+2026-11-11,France|gas|2019-01|3,source_url,https://cre.fr/content/download/24418/file/Observatoire_detail_gaz_T1_2021.pdf,https://www.cre.fr/content/download/26603/file/221215_2022-360_Communication_methodologie_augmentation_TRV.pdf
+2026-11-11,France|gas|2019-01|3,source_ref,CRE retail gas observatory 2021 (secondary summary of the 30 June 2021 figure; to confirm in the Q2 2021 observatory),"CRE communication 2022-360 (15 December 2022), pp. 1-3: Engie's TRVG pass through supply-cost changes under the formula of the arrêté of 28 June 2021, in which the month-ahead+2 PEG index carries 80% weight; freeze extended to 30 June 2023 (PLF 2023 art. 42 ter), when TRVG end"
+2026-11-11,France|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,France|gas|2019-01|3,read_date,2026-11-08,2026-11-11
+2026-11-11,France|gas|2019-01|3,verified,no,yes
+2026-11-11,France|gas|2019-01|3,notes,TRVG abolished on 30 June 2023 (Energy-Climate Act of 8 November 2019),"The month-ahead+2 index gives a lag of at least one month, so code 3 under section 2; the freeze from November 2021 is the code 1 row"
+2026-11-11,Bulgaria|gas|2022-07|4,added,,VAT on natural gas for end users cut from 20% to 9%
+2026-11-11,Luxembourg|electricity|2023-01|4,added,,All VAT rates cut by one percentage point in 2023 (reduced rate 8% to 7%)
+2026-11-11,Luxembourg|gas|2023-01|4,added,,All VAT rates cut by one percentage point in 2023 (reduced rate 8% to 7%)
+2026-11-11,Slovenia|electricity|2022-02|4,added,,Excise duty on non-business electricity cut by 50% (1.525 EUR/MWh)
+2026-11-11,Slovenia|gas|2022-02|4,added,,Excise duty on natural gas for heating cut by 50% (0.855 EUR/MWh)
+2026-11-11,Belgium|electricity|2022-03|4,end_month,,2023-03
+2026-11-11,Belgium|electricity|2022-03|4,notes,From April 2023 the 6% rate is permanent and an excise set from the 2021 VAT difference offsets it at moderate prices: design question whether code 4 continues after 2023-03,"Amendment 2, case 1: the 6% rate became permanent from April 2023 with an offsetting excise, so code 4 ends 2023-03"
+2026-11-11,Belgium|gas|2022-04|4,end_month,,2023-03
+2026-11-11,Belgium|gas|2022-04|4,notes,As electricity,"Amendment 2, case 1 (as electricity)"
+2026-11-11,Ireland|electricity|2022-10|4,special_flags,,formula_driven
+2026-11-11,Ireland|electricity|2022-10|4,notes,"Start corrected from 2022-01 to 2022-10 (the PSO year). The negative levy follows the RESS support design (generators return revenues above a strike price), so the cut is formula-driven rather than a discretionary decision: design question whether to keep it as code 4. Zero levy also in 2023/24","Amendment 2, case 2: the levy fell to zero because the RESS support formula returned revenue at high wholesale prices (legislation amended in June 2022 to allow a negative levy). Zero levy also in 2023/24"
+2026-11-11,Spain|electricity|2024-01|4,special_flags,,endogenous_trigger
+2026-11-11,Spain|electricity|2024-07|4,special_flags,,endogenous_trigger
+2026-11-11,Spain|electricity|2026-04|4,special_flags,,endogenous_trigger
+2026-11-11,Spain|gas|2026-04|4,special_flags,,endogenous_trigger
+2026-11-11,Spain|electricity|2021-07|4,special_flags,,endogenous_trigger
+2026-11-11,Croatia|electricity|2022-04|1,added,,"Government package of 16 February 2022 limits the 1 April 2022 increase in household electricity prices to 9.6% (instead of about 23%), with the state-owned supplier HEP bearing part of the cost"
+2026-11-11,Czechia|electricity|2021-11|4,notes,"Monthly advance payments were unchanged; the relief shows only in the annual settlement, so how the statistical office recorded it in the HICP is a design question. Press reports say a later review found the waiver unlawful","Amendment 2, case 3, checked: CZSO's note on consumer energy prices for November 2021 states that in the HICP and CPI the waiver is treated as a change in the VAT rate from 21% to 0% in the months it applies, whatever the timing of advance payments (https://csu.gov.cz/note-to-consumer-prices-of-energy-november-2021). Code 4 kept. Press reports say a later review found the waiver unlawful"
+2026-11-11,Czechia|gas|2021-11|4,notes,As electricity,As electricity (CZSO treatment checked)
+2026-11-11,Estonia|electricity|2022-10|1,added,,"Universal service: optional regulated electricity price based on Eesti Energia's production cost, approved by the Competition Authority"
+2026-11-11,Latvia|gas|2019-01|3,added,,"Regulated household gas tariff of Latvijas Gāze for captive (non-switching) customers, revised twice a year (1 January and 1 July) on the current gas price under an SPRK decision"
+2026-11-11,Greece|gas|baseline,notes,"No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; unresolved: ACER does not explain the Greek gas entry; gas retail regulation for households still to source from RAE","No regulated retail prices (to confirm); ACER Figure 48 reports an intervention for non-vulnerable households in 2021, which differs from this code; resolved: keep 0. RAE National Report 2022, p. 23: the natural gas retail market has been fully liberalised since 1 January 2018 (https://www.raaey.gr/energeia/wp-content/uploads/2024/06/National-Report-2022.pdf)"
+2026-11-11,Latvia|gas|2019-01|3,end_month,,2023-04
+2026-11-11,Latvia|gas|2019-01|3,source_url,https://ceer.eu/wp-content/uploads/2024/05/ACER-CEER-Annual-Report-on-the-Results-of-Monitoring-the-Internal-Electricity-and-Natural-Gas-Markets-in-2021.pdf,https://www.sprk.gov.lv/lv/dabasgazes-cena
+2026-11-11,Latvia|gas|2019-01|3,source_ref,"ACER/CEER 2021 retail report, Figure 48 (p. 65) and p. 66, para. 224 (price intervention for gas households; prices reported below cost); revision schedule from LSM news reports of SPRK decisions (twice a year; SPRK refused an extra October 2022 revision)",SPRK page 'Dabasgāzes cena': until 30 April 2023 the price for captive household users combined the system-service and trading-service tariffs approved by SPRK Decision No. 247 of 24 July 2008 with the gas trading price; from 1 May 2023 the household market is fully open and the regulated tariff no longer exists. Revision on 1 January and 1 July per Latvijas Gāze and LV portāls (6 January 2023); ACER/CEER 2021 report p. 66 (prices reported below cost)
+2026-11-11,Latvia|gas|2019-01|3,evidence,secondary,primary
+2026-11-11,Latvia|gas|2019-01|3,read_date,2026-11-11,2026-11-11
+2026-11-11,Latvia|gas|2019-01|3,verified,no,yes
+2026-11-11,Latvia|gas|2019-01|3,notes,"Amendment 2, case 6. A six-monthly revision on the current gas price is a lagged formula (code 3). SPRK decision text, the end of the regulated tariff (the market had three household suppliers by late 2023) and the 2022-2023 compensation measures (not_coded_measures row) still to read","Amendment 2, case 6. Six-monthly pass-through of the gas trading price: code 3. Ends 2023-04. The 2022-2023 compensation measures stay in not_coded_measures until their terms are read"
+2026-11-11,Estonia|electricity|2022-10|1,end_month,,2024-06
+2026-11-11,Estonia|electricity|2022-10|1,coverage_share,,0.13
+2026-11-11,Estonia|electricity|2022-10|1,coverage_note,Opt-in. Take-up not yet sourced with a date; press reports of roughly 70 000 to 80 000 customers (mostly households) suggest well under half of households,"Universal-service consumers were 13% of all consumers in 2023 (Competition Authority, Electricity and gas markets in Estonia 2023, p. 77); 657 689 household consumers in 2023 (Table 16, p. 38)"
+2026-11-11,Estonia|electricity|2022-10|1,source_url,https://www.kik.ee/en/grants/energy-price-compensation-household-consumers,https://www.konkurentsiamet.ee/sites/default/files/documents/2024-09/Electricity%20and%20gas%20markets%20in%20Estonia%202023.pdf
+2026-11-11,Estonia|electricity|2022-10|1,source_ref,Environmental Investment Centre (KIK): universal service available from 1 October 2022; Competition Authority annual report 2022 (electricity): 'In 2022 electricity price regulation came back through the option of universal service',"Competition Authority, Electricity and gas markets in Estonia 2023: regulation in force from 1 October 2022 (pp. 5, 38); monthly price = production price agreed with the Authority plus reasonable costs and profit (p. 77); regulation ended 1 July 2024 (pp. 38, 77)"
+2026-11-11,Estonia|electricity|2022-10|1,evidence,primary,primary
+2026-11-11,Estonia|electricity|2022-10|1,read_date,2026-11-11,2026-11-11
+2026-11-11,Estonia|electricity|2022-10|1,verified,no,yes
+2026-11-11,Estonia|electricity|2022-10|1,notes,"Amendment 2, case 4. Start confirmed; end (reported as 1 July 2024, when the temporary production-price rule lapsed) and the take-up share still to read in a Competition Authority document. Until coverage is entered, use the opt_in flag to exclude it","Amendment 2, case 4. Coverage 0.13 is below 0.5, so the row carries the low-coverage flag; the opt_in flag is kept. The 2023 share is used as the coverage for the whole spell; the 2022 share is not reported"
+2026-11-11,Croatia|electricity|2022-04|1,step_ups,2022-04:+9.6%,2022-04:+15%
+2026-11-11,Croatia|electricity|2022-04|1,measure,"Government package of 16 February 2022 limits the 1 April 2022 increase in household electricity prices to 9.6% (instead of about 23%), with the state-owned supplier HEP bearing part of the cost","Government package of 16 February 2022 limits the 1 April 2022 increase in HEP's household tariff items to 15% (average bill +9.6%), with HEP bearing about HRK 460 million"
+2026-11-11,Croatia|electricity|2022-04|1,source_url,https://vlada.gov.hr/paket-mjera-za-ublazavanje-rasta-cijena-energenata/33906,https://vlada.gov.hr/UserDocsImages/2016/Sjednice/2024/Ozujak/293_sjednica_VRH/293%20-%208b.docx
+2026-11-11,Croatia|electricity|2022-04|1,source_ref,Government page on the package of measures against rising energy prices (body loads by script and could not be read directly); its content as reported by Hina via N1 (16 February 2022: 'capping of the growth of electricity prices to 9.6 percent') and Informator.hr (limit of 9.6%; HEP fee limit relieves households of about HRK 460 million),"Government session 293 (March 2024), item 8b, explanatory text: HEP kept household prices unchanged until 1 April 2022; from 1 April 2022 household tariff items rose 15% (average bill 9.6%) under the spring package of 16 February 2022, below what market prices implied; HEP bore a difference of HRK 460 million"
+2026-11-11,Croatia|electricity|2022-04|1,evidence,secondary,primary
+2026-11-11,Croatia|electricity|2022-04|1,read_date,2026-11-11,2026-11-11
+2026-11-11,Croatia|electricity|2022-04|1,verified,no,yes
+2026-11-11,Croatia|electricity|2022-04|1,notes,"Amendment 2, case 7: code 1 from the first month a government decision limits the price (a limited increase, not a freeze). Before 2022-04 code 6: HEP held its own price with no government decision. Followed by the October 2022 decree (next row)","Amendment 2, case 7: code 1 from the first month a government decision limits the price (a limited increase, not a freeze). Before 2022-04 code 6. Followed by the October 2022 decree (next row)"
+2026-11-11,Sweden|electricity|2026-06|5,added,,"Electricity support 2026: one-off payment per kWh of January-February 2026 consumption (14 öre in SE1 and SE2, 26 öre in SE3, 29 öre in SE4)"
+2026-11-11,Sweden|electricity|2026-10|5,added,,"High-cost protection: support when the monthly average spot price in a price area exceeds SEK 1.50/kWh; activated for price area SE4 for October 2026, paid in spring 2027"
+2026-11-12,Portugal|electricity|2019-01|3,measure,ERSE regulated last-resort tariff,"ERSE transitory regulated tariffs for low-voltage (BTN) customers, set annually from cost forecasts, with an exceptional revision from 1 July 2022"
+2026-11-12,Portugal|electricity|2019-01|3,coverage_share,,0.17
+2026-11-12,Portugal|electricity|2019-01|3,coverage_note,Households on regulated tariffs (share to source),"921 000 customers on the regulated market in 2022, 6% of total consumption (ERSE press release); about 5.5 million electricity customers in total (ERSE market bulletin, March 2022, as reported; not read directly). Approximate; below 0.5 in any case"
+2026-11-12,Portugal|electricity|2019-01|3,source_url,,https://www.erse.pt/communication/press-releases/tarifas-de-eletricidade-no-mercado-regulado-baixam-2-6-a-partir-de-1-de-julho-de-2022/
+2026-11-12,Portugal|electricity|2019-01|3,source_ref,,"ERSE press release on the exceptional tariff revision for 1 July to 31 December 2022 (transitory tariffs for consumers remaining on the regulated market: 921 000 customers, 6% of consumption); extinction of BTN transitory tariffs postponed to 31 December 2025 (Law 2/2020)"
+2026-11-12,Portugal|electricity|2019-01|3,evidence,secondary,primary
+2026-11-12,Portugal|electricity|2019-01|3,read_date,2026-11-08,2026-11-12
+2026-11-12,Portugal|electricity|2019-01|3,verified,no,yes
+2026-11-12,Portugal|electricity|2019-01|3,notes,,"Annual tariffs set ex ante from forecast costs pass costs through with a lag of more than one month: code 3. Low coverage, so flagged. End date (transitory tariffs due to end 31 December 2025) still to confirm"
